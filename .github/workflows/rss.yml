@@ -36,4 +36,5 @@ jobs:
           git config user.email "actions@github.com"
           git add feed.xml state.json feed_blog.xml state_blog.json
           git diff --cached --quiet || git commit -m "MAJ feeds $(date -u +%F)"
+          git pull --rebase origin main
           git push
