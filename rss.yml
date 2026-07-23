@@ -1,0 +1,36 @@
+name: Générer le flux RSS
+
+on:
+  schedule:
+    # Tous les jours à 7h00 UTC (8h/9h heure de Paris selon la saison)
+    - cron: "0 7 * * *"
+  workflow_dispatch: {}   # permet de lancer manuellement depuis l'onglet Actions
+
+permissions:
+  contents: write         # nécessaire pour committer feed.xml et state.json
+
+jobs:
+  build-feed:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Récupérer le dépôt
+        uses: actions/checkout@v4
+
+      - name: Installer Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Installer les dépendances
+        run: pip install requests beautifulsoup4 feedgen
+
+      - name: Générer le feed
+        run: python renoir_valoris_rss.py
+
+      - name: Committer le feed mis à jour
+        run: |
+          git config user.name "rss-bot"
+          git config user.email "actions@github.com"
+          git add feed.xml state.json
+          git diff --cached --quiet || git commit -m "MAJ feed $(date -u +%F)"
+          git push
