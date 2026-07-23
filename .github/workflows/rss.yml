@@ -1,4 +1,4 @@
-name: Générer le flux RSS
+name: Générer les flux RSS
 
 on:
   schedule:
@@ -7,10 +7,10 @@ on:
   workflow_dispatch: {}   # permet de lancer manuellement depuis l'onglet Actions
 
 permissions:
-  contents: write         # nécessaire pour committer feed.xml et state.json
+  contents: write         # nécessaire pour committer les feeds et states
 
 jobs:
-  build-feed:
+  build-feeds:
     runs-on: ubuntu-latest
     steps:
       - name: Récupérer le dépôt
@@ -24,13 +24,16 @@ jobs:
       - name: Installer les dépendances
         run: pip install requests beautifulsoup4 feedgen
 
-      - name: Générer le feed
+      - name: Générer le feed annonces
         run: python renoir_valoris_rss.py
 
-      - name: Committer le feed mis à jour
+      - name: Générer le feed blog
+        run: python renoir_valoris_blog_rss.py
+
+      - name: Committer les feeds mis à jour
         run: |
           git config user.name "rss-bot"
           git config user.email "actions@github.com"
-          git add feed.xml state.json
-          git diff --cached --quiet || git commit -m "MAJ feed $(date -u +%F)"
+          git add feed.xml state.json feed_blog.xml state_blog.json
+          git diff --cached --quiet || git commit -m "MAJ feeds $(date -u +%F)"
           git push
