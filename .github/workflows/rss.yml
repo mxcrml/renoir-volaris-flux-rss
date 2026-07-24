@@ -2,27 +2,42 @@ name: Générer les flux RSS
 
 on:
   schedule:
-    # Tous les jours à 7h38 UTC (8h/9h heure de Paris selon la saison)
+    # Tous les jours à 7h38 UTC, soit 8h38 en hiver et 9h38 en été à Paris
     - cron: "38 7 * * *"
-  workflow_dispatch: {}   # permet de lancer manuellement depuis l'onglet Actions
+
+  workflow_dispatch:
 
 permissions:
-  contents: write         # nécessaire pour committer les feeds et states
+  contents: write
+
+concurrency:
+  group: rss-feeds
+  cancel-in-progress: false
 
 jobs:
   build-feeds:
     runs-on: ubuntu-latest
+
     steps:
       - name: Récupérer le dépôt
         uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
 
       - name: Installer Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+          cache: pip
 
       - name: Installer les dépendances
-        run: pip install requests beautifulsoup4 feedgen markdownify
+        run: |
+          python -m pip install --upgrade pip
+          python -m pip install -r requirements.txt
+
+      - name: Synchroniser la branche
+        run: git pull --ff-only origin main
 
       - name: Générer le feed annonces
         run: python renoir_valoris_rss.py
@@ -32,9 +47,16 @@ jobs:
 
       - name: Committer les feeds mis à jour
         run: |
-          git config user.name "rss-bot"
-          git config user.email "actions@github.com"
-          git add feed.xml state.json feed_blog.xml state_blog.json
-          git diff --cached --quiet || git commit -m "MAJ feeds $(date -u +%F)"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add -- feed.xml state.json feed_blog.xml state_blog.json
+
+          if git diff --cached --quiet; then
+            echo "Aucune modification à committer."
+            exit 0
+          fi
+
+          git commit -m "MAJ feeds $(date -u +%F)"
           git pull --rebase origin main
-          git push
+          git push origin HEAD:main
