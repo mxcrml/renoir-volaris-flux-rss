@@ -1,4 +1,4 @@
-requests==2.32.5
-beautifulsoup4==4.13.4
-feedgen==1.0.0
-markdownify==1.2.3
+requests
+beautifulsoup4
+feedgen
+markdownify
