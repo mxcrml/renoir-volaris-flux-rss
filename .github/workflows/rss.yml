@@ -2,7 +2,7 @@ name: Générer les flux RSS
 
 on:
   schedule:
-    # Tous les jours à 7h00 UTC (8h/9h heure de Paris selon la saison)
+    # Tous les jours à 7h38 UTC (8h/9h heure de Paris selon la saison)
     - cron: "38 7 * * *"
   workflow_dispatch: {}   # permet de lancer manuellement depuis l'onglet Actions
 
