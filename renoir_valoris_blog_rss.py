@@ -212,7 +212,7 @@ def main():
     active = [d for d in state.values() if d.get("active")]
     active.sort(key=lambda d: d["first_seen"], reverse=True)
 
-    for d in active[:MAX_ITEMS]:
+    for d in reversed(active[:MAX_ITEMS]):
         fe = fg.add_entry()
         fe.id(d["url"])
         fe.link(href=d["url"])
