@@ -22,7 +22,7 @@ jobs:
           python-version: "3.12"
 
       - name: Installer les dépendances
-        run: pip install requests beautifulsoup4 feedgen
+        run: pip install requests beautifulsoup4 feedgen markdownify
 
       - name: Générer le feed annonces
         run: python renoir_valoris_rss.py
