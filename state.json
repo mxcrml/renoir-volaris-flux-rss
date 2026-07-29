@@ -354,7 +354,7 @@
   "dpe": "E",
   "description": "À Nancy, situé à deux pas de la Place Paul Painlevé, du Parc Sainte-Marie et de Nancy Thermal, dans un quartier apprécié pour sa qualité de vie et sa proximité immédiate des commerces, écoles, transports et axes routiers.\nCet appartement en duplex se situe au deuxième et troisième étage d’une petite copropriété bien entretenue. Il propose trois chambres, un vaste séjour - salle à manger, une grande cave, deux greniers et une place de parking sécurisée disponible à la location.\nL’entrée, située au troisième étage, s’ouvre sur un dégagement avec rangement et penderie. Ce niveau accueille un double séjour lumineux d’environ 37 m² avec placard, une première chambre avec placard également, une salle de bains équipée d’une double vasque et d’un WC, ainsi qu’une cuisine spacieuse, aménagée et équipée, bénéficiant d’une agréable vue dégagée.\nIl offre une possibilité de créer une quatrième chambre en réduisant la taille du séjour à 25 m².\nLe niveau inférieur, dédié à l’espace nuit, se compose d’un couloir avec placard intégré, de deux chambres supplémentaires avec dressing intégrés, dont l’une dispose d’un WC et d’un espace buanderie.\nEn annexe, l’appartement dispose d’une grande cave de 18 m² et de deux greniers sous toiture pour le stockage. Une place de parking sécurisée est disponible à la location dans une copropriété voisine.",
   "first_seen": "2026-07-23T13:21:10.695611+00:00",
-  "active": true
+  "active": false
  },
  "https://www.renoiretvaloris.com/vente/appartement-duplex-6-pieces-nancy-54000,VA2180": {
   "url": "https://www.renoiretvaloris.com/vente/appartement-duplex-6-pieces-nancy-54000,VA2180",
@@ -983,7 +983,7 @@
   "dpe": "C",
   "description": "À Nancy, dans le quartier très recherché Rives-de-Meurthe, venez découvrir ce bel appartement de deux pièces avec terrasse et stationnement, vendu loué.\nDès l'entrée, vous profiterez d'un grand séjour lumineux de plus de 20 m² bénéficiant d'un accès direct à la terrasse grâce à ses larges ouvertures et à son exposition sud-ouest. Un coin cuisine pratique complète cet espace de vie.\nCôté nuit, vous disposerez d'une grande chambre avec placard, d'une salle de bains ainsi que d'un WC indépendant.\nUne cave fermée et une place de stationnement en sous-sol viennent compléter ce bien.\nIdéal pour un investissement, ne tardez pas à visiter ce bien.",
   "first_seen": "2026-07-23T13:21:10.695611+00:00",
-  "active": true
+  "active": false
  },
  "https://www.renoiretvaloris.com/vente/appartement-t2-2-pieces-nancy-54000,VA3723": {
   "url": "https://www.renoiretvaloris.com/vente/appartement-t2-2-pieces-nancy-54000,VA3723",
@@ -4077,7 +4077,7 @@
   "dpe": null,
   "description": "Sur la commune de NANCY, dans un secteur calme du Port Sainte-Catherine, venez découvrir cette péniche de trois pièces avec terrasse aménagée.\nLa péniche se compose d'un patio arboré ouvert sur la cuisine équipée. Vous y trouverez un séjour de plus de 20 m² et bénéficierez d'un WC indépendant ainsi que d'une salle de bains fonctionnelle.\nL'espace nuit se compose d'une chambre avec des rangements intégrés.\nEn sus, le pont de ce bateau offre une vaste terrasse aménagée.\nCe bien atypique séduira les amateurs de lieux de vies originaux et les passionnés de la vie fluviale. La location de l'emplacement avoisine les 2 000 € / An.\nNe tardez pas à visiter.",
   "first_seen": "2026-07-23T13:21:10.695611+00:00",
-  "active": true
+  "active": false
  },
  "https://www.renoiretvaloris.com/vente/maison-3-pieces-jarville-la-malgrange-54140,VM1184": {
   "url": "https://www.renoiretvaloris.com/vente/maison-3-pieces-jarville-la-malgrange-54140,VM1184",
