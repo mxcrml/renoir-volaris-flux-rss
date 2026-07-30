@@ -14,7 +14,7 @@
   "dpe": null,
   "description": "Situé entre la Place de la Commanderie et Thermal, à Nancy, grand et lumineux studio dans une petite copropriété à faibles charges.\nCe bien se compose d'une vaste pièce de vie baignée de lumière et sans vis-à-vis, proposant une vue verdoyante, un coin cuisine semi-ouvert et une salle d'eau avec WC.\nFenêtres double vitrage PVC avec volets roulants.\nClasse F : Logement en consommation excessif",
   "first_seen": "2026-07-23T13:21:10.695611+00:00",
-  "active": true
+  "active": false
  },
  "https://www.renoiretvaloris.com/vente/appartement-2-pieces-nancy-54000,VA2515": {
   "url": "https://www.renoiretvaloris.com/vente/appartement-2-pieces-nancy-54000,VA2515",
@@ -371,7 +371,7 @@
   "dpe": null,
   "description": "A quelques pas du parc de la Pépinière, au premier étage d'une petite copropriété de 2 lots, découvrez un duplex traversant, plein de charme, à la perspective verdoyante.\nCet appartement a été parfaitement pensé pour faciliter la vie de ses occupants et cela dès l'entrée où vous disposez d'un grand vestiaire, avant de plonger dans un salon-séjour de près de 40 m² exposé Sud-Ouest, sans vis-à-vis, attenant à une cuisine indépendante avec cellier.\nCe premier niveau est complété par une salle d'eau avec douche à l'italienne et un WC indépendant.\nLe deuxième étage quant à lui est dédié à l'espace nuit et distribue 4 chambres, un dressing et de nombreux rangements.\nAtouts indéniables dans ce quartier recherché, une terrasse de plus de 60 m², avec place de stationnement.",
   "first_seen": "2026-07-23T13:21:10.695611+00:00",
-  "active": true
+  "active": false
  },
  "https://www.renoiretvaloris.com/vente/appartement-duplex-8-pieces-nancy-54000,VA2367": {
   "url": "https://www.renoiretvaloris.com/vente/appartement-duplex-8-pieces-nancy-54000,VA2367",
@@ -1187,7 +1187,7 @@
   "dpe": null,
   "description": "Dans le centre ville de Saint-Nicolas-de-Port et dans une petite copropriété, nous vous proposons un appartement de type T2 à rénover.\nAu premier étage d'un immeuble de caractère en cours de rénovation, cet appartement possède de belles prestations, avec une hauteur sous plafond de plus de 2,80 mètres, des huisseries intérieures de qualité ainsi que de beaux parquets d'orgines.\nLe bien dispose d'une place de stationnement extérieure.",
   "first_seen": "2026-07-23T13:21:10.695611+00:00",
-  "active": true
+  "active": false
  },
  "https://www.renoiretvaloris.com/vente/appartement-t2-2-pieces-villers-les-nancy-54600,VA2032": {
   "url": "https://www.renoiretvaloris.com/vente/appartement-t2-2-pieces-villers-les-nancy-54600,VA2032",
@@ -1629,7 +1629,7 @@
   "dpe": null,
   "description": "Situé dans un quartier très prisé de LAXOU, limitrophe avec NANCY BEAUREGARD - BUTHEGNEMONT. Sur les hauteurs et offrant une belle vue panoramique sur toute la ville de Nancy.\nVenez découvrir ce bel appartement de type T3, comprenant une entrée, une cuisine indépendante, un salon et un coin nuit avec deux chambres et une salle de bain.\nLes WC sont séparés de toutes les autres pièces.\nLes pièces de vie ont toutes deux accès à des balcons sur lesquels vous pourrez apprécier une très belle vue panoramique sur tout le grand Nancy.\nDe plus, l'appartement situé au premier étage bénéficie d'un accès facilité grâce à un ascenseur.\nEnfin, une place de parking privative permet de se stationner facilement à tout moment de la journée.\nNous vous invitions à visiter ce bien sans plus tarder.",
   "first_seen": "2026-07-23T13:21:10.695611+00:00",
-  "active": true
+  "active": false
  },
  "https://www.renoiretvaloris.com/vente/appartement-t3-3-pieces-nancy-54000,VA2501": {
   "url": "https://www.renoiretvaloris.com/vente/appartement-t3-3-pieces-nancy-54000,VA2501",
@@ -2071,7 +2071,7 @@
   "dpe": null,
   "description": "Dans le centre ville de Saint-Nicolas-de-Port et dans une petite copropriété, nous vous proposons un appartement de type T3 à rénover.\nAu premier étage d'un immeuble de caractère en cours de rénovation, cet appartement possède de belles prestations comme plus de 2,80 mètres hauteur sous plafond, des huisseries intérieurs de standing ainsi que de jolie parquets d'origine.\nLe bien dispose d'une place de stationnement extérieure.",
   "first_seen": "2026-07-23T13:21:10.695611+00:00",
-  "active": true
+  "active": false
  },
  "https://www.renoiretvaloris.com/vente/appartement-t3-3-pieces-villers-les-nancy-54600,VA2900": {
   "url": "https://www.renoiretvaloris.com/vente/appartement-t3-3-pieces-villers-les-nancy-54600,VA2900",
@@ -2292,7 +2292,7 @@
   "dpe": null,
   "description": "En second corps de bâtiment, un superbe duplex en rez-de-chaussée, comprenant un grand salon-séjour cathédrale, ouvrant sur une belle cuisine équipée, deux chambres et un patio de 9 m².\nA quelques pas d'ARTEM, du parc Sainte-Marie et lycée et école Frédéric Chopin, vous bénéficierez d'un place de stationnement et de la proximité du tramway.",
   "first_seen": "2026-07-23T13:21:10.695611+00:00",
-  "active": true
+  "active": false
  },
  "https://www.renoiretvaloris.com/vente/appartement-t4-4-pieces-nancy-54000,VA2186": {
   "url": "https://www.renoiretvaloris.com/vente/appartement-t4-4-pieces-nancy-54000,VA2186",
@@ -2547,7 +2547,7 @@
   "dpe": "D",
   "description": "À Nancy, dans une rue calme au sein du quartier Anatole France et d'un immeuble de trois lots d'habitations à faibles charges, venez découvrir ce bel appartement à rafraîchir avec deux chambres, un garage et un balcon.\nVous apprécierez une vaste entrée avec dressing desservant les différents espaces notamment la pièce de vie de plus de 30 m², ouverte sur un balcon avec vue sur la verdure. Une cuisine indépendante est accolée et peut devenir une cuisine américaine, selon vos envies.\nDans la continuité, vous trouverez l'espace nuit avec deux chambres, une salle de bains et un WC indépendant.\nEn bonus, un vaste grenier pour le stockage et un garage pouvant accueillir une voiture ainsi qu'une moto et du rangement supplémentaire.\nNous vous invitons à le visiter sans plus tarder.",
   "first_seen": "2026-07-23T13:21:10.695611+00:00",
-  "active": true
+  "active": false
  },
  "https://www.renoiretvaloris.com/vente/appartement-t4-4-pieces-nancy-54000,VA3186": {
   "url": "https://www.renoiretvaloris.com/vente/appartement-t4-4-pieces-nancy-54000,VA3186",
@@ -2802,7 +2802,7 @@
   "dpe": "C",
   "description": "Sur la commune de Nancy, dans le secteur Boudonville-Libération, proche du centre ville et de toutes les commodités.\nAu 11ème étage d'une belle copropriété dernièrement rénovée, venez découvrir un bel appartement de 4 pièces avec deux balcons.\nDernièrement rénové, vous profiterez d'un espace de vie agréable et lumineux, trois chambres et une cuisine indépendante.\nLa copropriété dispose d'un ascenseur.\nNous vous invitons à visiter ce bien sans plus tarder.",
   "first_seen": "2026-07-23T13:21:10.695611+00:00",
-  "active": true
+  "active": false
  },
  "https://www.renoiretvaloris.com/vente/appartement-t4-4-pieces-saint-max-54130,VA2368": {
   "url": "https://www.renoiretvaloris.com/vente/appartement-t4-4-pieces-saint-max-54130,VA2368",
@@ -3091,7 +3091,7 @@
   "dpe": null,
   "description": "L'entrée individuelle de l'appartement, vous plonge dans une vaste salle à manger lumineuse avec cuisine américaine équipée et séjour avec accès privatif à un patio.\nCôté nuit, vous apprécierez sa magnifique suite parentale avec douche à l'italienne et placard, sa seconde chambre qui ravira les amateurs de dressing et enfin sa troisième chambre à l'espace confortable.\nLa salle de bain avec baignoire et douche, ainsi que les toilettes indépendants avec WC suspendu avec lave-mains et une buanderie vous apporteront tout le confort dont vous avez besoin.\nUn garage avec porte automatique et une cave de 45 m² vous offriront un espace de rangement précieux.",
   "first_seen": "2026-07-23T13:21:10.695611+00:00",
-  "active": true
+  "active": false
  },
  "https://www.renoiretvaloris.com/vente/appartement-t5-et-plus-5-pieces-nancy-54000,VA2226": {
   "url": "https://www.renoiretvaloris.com/vente/appartement-t5-et-plus-5-pieces-nancy-54000,VA2226",
@@ -5760,7 +5760,7 @@
   "dpe": null,
   "description": "Dans le calme absolu, au fond d'une impasse, avec vue sur les vergers, maison indépendante avec garage et grand jardin.\nLe rez-de-chaussée se compose d'une pièce de vie, une cuisine indépendante, une chambre, une salle d'eau, des WC indépendants et un espace buanderie.\nÀ l'étage se trouve le coin nuit, composé de trois chambres supplémentaires et un dressing.\nUn grand sous-sol, un spacieux garage et une dépendance viennent compléter la maison.\nL'ensemble est édifié sur une belle parcelle de 905m² sans-vis-à-vis et profitant d'une vue verdoyante et dégagée.",
   "first_seen": "2026-07-23T13:21:10.695611+00:00",
-  "active": true
+  "active": false
  },
  "https://www.renoiretvaloris.com/vente/maison-individuelle-5-pieces-pulnoy-54425,VM628": {
   "url": "https://www.renoiretvaloris.com/vente/maison-individuelle-5-pieces-pulnoy-54425,VM628",
@@ -6644,6 +6644,23 @@
   "dpe": "D",
   "description": "Sur la commune de Saint-Max, à seulement deux minutes du parc de la Pépinière et de la Vieille Ville de Nancy, cette maison familiale en très bon état offre un cadre de vie privilégié à proximité immédiate des commerces, des écoles, des transports en commun et des principaux axes routiers. Elle propose trois chambres, un bureau, un grand jardin, deux terrasses, un garage et un fort potentiel d'évolution grâce à ses combles aménageables.\nÉdifiée sur trois niveaux habitables, la maison dispose de combles d'environ 57 m² au sol pouvant être aménagés pour créer environ 40 m² habitables supplémentaires, selon vos besoins.\nAu rez-de-chaussée, un vaste hall d'entrée vous accueille et dessert un bureau, un grand garage avec porte motorisée permettant de stationner un véhicule tout en conservant de généreux espaces de rangement ainsi qu'une place de stationnement supplémentaire devant la maison. Une buanderie de belle taille, équipée d'un WC et offrant la possibilité de créer une salle d'eau, complète ce niveau. Depuis le bureau et la buanderie, vous accéderez directement à une première terrasse ainsi qu'au jardin.\nLe premier étage est entièrement dédié aux espaces de vie. Vous y découvrirez une cuisine spacieuse avec îlot central, ouverte sur un espace salle à manger et un salon lumineux. Traversant, cet étage bénéficie d'une belle luminosité et d'une vue dégagée sans vis-à-vis. Une seconde terrasse, accessible de plain-pied depuis la cuisine, permet de profiter pleinement des extérieurs et rejoint le jardin. Une salle d'eau et un second WC complètent ce niveau.\nAu deuxième étage, l'espace nuit accueille trois chambres dont deux de plus de 15 m², particulièrement lumineuses, ainsi qu'une salle de bains et un troisième WC.\nEnfin, les combles proposent un véritable potentiel d'aménagement. Ils permettront de créer une grande suite parentale, une salle de jeux, un espace cinéma, une salle de sport ou tout autre projet selon vos envies.\nÀ l'arrière de la maison, un jardin de plus de 200 m² constitue un agréable espace de détente et de jeux pour les enfants.\nUne maison évolutive, entretenue et idéalement située, profitant d'un cadre de vie agréable aux portes de Nancy.",
   "first_seen": "2026-07-26T09:37:43.668916+00:00",
+  "active": true
+ },
+ "https://www.renoiretvaloris.com/vente/appartement-t3-3-pieces-laxou-54520,VA2474": {
+  "url": "https://www.renoiretvaloris.com/vente/appartement-t3-3-pieces-laxou-54520,VA2474",
+  "title": "À vendre - T3, 3 pièces situé à Laxou (54520)",
+  "image": "https://img.netty.immo/productcw/renoirvaloris/2/VA2474/appartement-t3-3-pieces-laxou-54520-1658334187-VA2474_12_l.jpg",
+  "meta_desc": "Découvrez cet appartement (t3) de 3 pièces situé à Laxou (54520) disponible en vente.",
+  "price": null,
+  "surface": "62",
+  "terrain": null,
+  "rooms": "3",
+  "bedrooms": "2",
+  "location": "Laxou 54520 - Beauregard",
+  "reference": "VA2474",
+  "dpe": null,
+  "description": "Situé dans un quartier très prisé de LAXOU, limitrophe avec NANCY BEAUREGARD - BUTHEGNEMONT. Sur les hauteurs et offrant une belle vue panoramique sur toute la ville de Nancy.\nVenez découvrir ce bel appartement de type T3, comprenant une entrée, une cuisine indépendante, un salon et un coin nuit avec deux chambres et une salle de bain.\nLes WC sont séparés de toutes les autres pièces.\nLes pièces de vie ont toutes deux accès à des balcons sur lesquels vous pourrez apprécier une très belle vue panoramique sur tout le grand Nancy.\nDe plus, l'appartement situé au premier étage bénéficie d'un accès facilité grâce à un ascenseur.\nEnfin, une place de parking privative permet de se stationner facilement à tout moment de la journée.\nNous vous invitions à visiter ce bien sans plus tarder.",
+  "first_seen": "2026-07-30T10:01:55.067649+00:00",
   "active": true
  }
 }
