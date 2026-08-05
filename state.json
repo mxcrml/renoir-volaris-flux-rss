@@ -1901,7 +1901,7 @@
   "dpe": null,
   "description": "Sur la commune de NANCY, dans le secteur de la Place des Vosges et à proximité directe du centre ville, de la gare ainsi que des transports en communs, dans une belle copropriété de petite taille, venez découvrir cet appartement de deux pièces situé au deuxième étage.\nComposé d'une entrée spacieuse, d'un séjour attenant à une cuisine indépendante et équipée, le bien possède également une chambre, une salle d'eau et des WC séparés.\nNous vous invitons à le visiter sans plus tarder.\nClasse énergétique E : logement en consommation excessive",
   "first_seen": "2026-07-23T13:21:10.695611+00:00",
-  "active": true
+  "active": false
  },
  "https://www.renoiretvaloris.com/vente/appartement-t3-3-pieces-nancy-54000,VA3795": {
   "url": "https://www.renoiretvaloris.com/vente/appartement-t3-3-pieces-nancy-54000,VA3795",
@@ -2139,7 +2139,7 @@
   "dpe": "D",
   "description": "À Nancy, au sein du secteur Anatole France-Santifontaine, venez découvrir ce charmant appartement de trois pièces entièrement rénové il y a une petite dizaine d'années.\nDès l'entrée avec grand placard, vous profiterez d'une spacieuse pièce de vie baignée de lumière avec un coin salon et un second espace avec une table à manger, ouvert sur la cuisine aménagée et équipée de bonne facture.\nLe côté nuit vous propose deux belles chambres ainsi qu'une salle d'eau jolierement rénové avec WC suspendu.\nEn bonus, une cave et un jardin commun.\nL'appartement a été très bien entretenu et rénové qualitativement. Nous vous invitons à le visiter sans plus tarder.",
   "first_seen": "2026-07-23T13:21:10.695611+00:00",
-  "active": true
+  "active": false
  },
  "https://www.renoiretvaloris.com/vente/appartement-t4-3-pieces-frouard-54390,VA3761": {
   "url": "https://www.renoiretvaloris.com/vente/appartement-t4-3-pieces-frouard-54390,VA3761",
@@ -2768,7 +2768,7 @@
   "dpe": "D",
   "description": "Sur la commune de Nancy, en plein cœur du quartier Thermal, venez découvrir ce bel appartement situé au troisième étage d'une petite copropriété avec deux chambres .\nDès l'entrée, vous serez séduit par son cachet et le volume de la pièce de vie. Vous trouverez également une cuisine aménagée avec son cellier.\nCôté nuit, vous profiterez deux chambres dont une de plus de 20 m², une salle de bains rénovée ainsi qu'un WC indépendant. Vous bénéficierez également d'un dressing aménagé.\nEn complément, une cave spacieuse vient compléter ce bien.\nNe tardez pas à visiter ce bien.",
   "first_seen": "2026-07-23T13:21:10.695611+00:00",
-  "active": false
+  "active": true
  },
  "https://www.renoiretvaloris.com/vente/appartement-t4-4-pieces-nancy-54000,VA4004": {
   "url": "https://www.renoiretvaloris.com/vente/appartement-t4-4-pieces-nancy-54000,VA4004",
@@ -2802,7 +2802,7 @@
   "dpe": "C",
   "description": "Sur la commune de Nancy, dans le secteur Boudonville-Libération, proche du centre ville et de toutes les commodités.\nAu 11ème étage d'une belle copropriété dernièrement rénovée, venez découvrir un bel appartement de 4 pièces avec deux balcons.\nDernièrement rénové, vous profiterez d'un espace de vie agréable et lumineux, trois chambres et une cuisine indépendante.\nLa copropriété dispose d'un ascenseur.\nNous vous invitons à visiter ce bien sans plus tarder.",
   "first_seen": "2026-07-23T13:21:10.695611+00:00",
-  "active": false
+  "active": true
  },
  "https://www.renoiretvaloris.com/vente/appartement-t4-4-pieces-saint-max-54130,VA2368": {
   "url": "https://www.renoiretvaloris.com/vente/appartement-t4-4-pieces-saint-max-54130,VA2368",
@@ -3652,7 +3652,7 @@
   "dpe": "C",
   "description": "Sur les hauteurs de Nancy, dans le secteur du Haut-de-Chèvre, venez découvrir ce charmant appartement de quatre chambres bénéficiant d'un grand balcon filant avec vue panoramique sur la ville et d'un garage double.\nDès l'entrée avec placard, vous apprécierez une belle pièce de vie baignée de lumière de plus de 35 m² avec accès sur le balcon. Dans la continuité, vous trouverez une cuisine indépendante avec cellier, accolée à une buanderie.\nL'espace nuit, quant à lui, dessert quatre chambres dont une suite parentale avec une salle de bains. De plus, vous disposez d'un premier WC qui est indépendant ainsi que d'une salle d'eau avec un second WC.\nL'appartement est en bon état général notamment grâce à un entretien régulier et au remplacement de la chaudière en 2025. Quelques rafraîchissements restent à prévoir.\nEn bonus, vous profiterez d'un garage double ainsi que d'une cave au sous-sol du bâtiment.",
   "first_seen": "2026-07-23T13:21:10.695611+00:00",
-  "active": true
+  "active": false
  },
  "https://www.renoiretvaloris.com/vente/appartement-t5-et-plus-6-pieces-nancy-54000,VA3905": {
   "url": "https://www.renoiretvaloris.com/vente/appartement-t5-et-plus-6-pieces-nancy-54000,VA3905",
@@ -6151,7 +6151,7 @@
   "dpe": "C",
   "description": "Sur le commune de Tomblaine, à proximité immédiate du rond-point Marcel Brot, venez découvrir cette charmante maison de trois chambres développant 100 m² habitables et bénéficiant d'un jardin et d'un garage.\nDès l'entrée, avec placard, vous apprécierez une belle pièce de vie ouverte sur une cuisine équipée menant directement sur l'extérieur avec la terrasse et le jardin. Sur ce même niveau, vous trouverez un premier WC indépendant.\nÀ l'étage, vous découvrirez trois belles chambres, toutes avec placards, dont une avec salle d'eau intégrée. En supplément, une salle de bains et un WC indépendant.\nLa maison a été très bien entretenue. Elle bénéficie d'un portail, d'une porte de garage motorisée ainsi que d'une climatisation dans la chambre parentale.\nNous vous invitons à la visiter sans plus tarder.",
   "first_seen": "2026-07-23T13:21:10.695611+00:00",
-  "active": true
+  "active": false
  },
  "https://www.renoiretvaloris.com/vente/maison-mitoyenne-2-cotes-10-pieces-saint-max-54130,VM1538": {
   "url": "https://www.renoiretvaloris.com/vente/maison-mitoyenne-2-cotes-10-pieces-saint-max-54130,VM1538",
@@ -6678,6 +6678,40 @@
   "dpe": "D",
   "description": "À Nancy, entre le Parc de la Cure d'Air et l'Avenue de Boufflers, découvrez cette maison individuelle rare sur le secteur, développant environ 325 m² habitables, hors combles, sur une parcelle offrant près de 700 m² de jardin arboré, avec garage et environ 70 m² de terrasse. Par ses volumes, sa configuration et son potentiel d'évolution, cette propriété s'adresse aussi bien à une grande famille, qu'à des professionnels souhaitant concilier activité et résidence principale.\nSon emplacement privilégié, à quelques minutes seulement du centre-ville, permet de rejoindre facilement commerces, écoles, crèches, transports en commun et principaux axes routiers, offrant un cadre de vie pratique au quotidien.\nÉdifiée sur quatre niveaux, la maison s'ouvre au rez-de-chaussée sur un hall d'entrée desservant une grande cuisine dinatoire indépendante baignée de lumière, un WC indépendant ainsi qu'une pièce pouvant accueillir un bureau ou dressing. Il dessert également un séjour de plus de 63 m², bénéficiant de belles hauteurs sous plafond et ouvrant de plain-pied sur une terrasse exposée vers le jardin.\nCe niveau accueille également un garage avec porte motorisée et une entrée secondaire qui permet un accès direct vers le rez-de-jardin, particulièrement adapté à une activité professionnelle indépendante.\nEnsuite, le premier étage qui est entièrement consacré à l'espace nuit. Un large dégagement dessert cinq chambres lumineuses, une grande buanderie, une salle de bains, une salle d'eau et un WC indépendant. La chambre principale bénéficie de sa terrasse privative d'environ 10 m², d'un dressing et d'un accès direct à la salle de bains. Deux autres chambres disposent chacune d'un point d'eau.\nAu deuxième et dernier étage, un premier espace d'environ 35 m² est déjà exploité et pourra accueillir une salle de jeux, une salle de sport, un espace cinéma, un bureau ou une vaste suite parentale, selon vos envies. Il est complété par un plateau de combles d'environ 87 m² offrant un potentiel d'aménagement généreux pour augmenter encore la surface habitable.\nLe rez-de-jardin constitue un véritable atout. Aujourd'hui aménagé en deux bureaux indépendants d'environ 25 m² chacun, il conviendra parfaitement à une activité professionnelle, mais pourra également être transformé en chambres supplémentaires, salle de loisirs ou espace indépendant pour recevoir famille et amis. Ce niveau bénéficie d'un accès direct à une seconde terrasse d'environ 70 m² et au magnifique jardin arboré d'environ 700 m², véritable écrin de verdure à quelques minutes seulement du centre de Nancy. Une chaufferie ainsi que deux vastes caves viennent compléter les prestations de cette propriété.",
   "first_seen": "2026-08-04T10:16:47.706778+00:00",
+  "active": true
+ },
+ "https://www.renoiretvaloris.com/vente/appartement-t5-et-plus-10-pieces-nancy-54000,VA4024": {
+  "url": "https://www.renoiretvaloris.com/vente/appartement-t5-et-plus-10-pieces-nancy-54000,VA4024",
+  "title": "À vendre - T5 et plus, 10 pièces situé à Nancy (54000)",
+  "image": "https://img.netty.immo/productcw/renoirvaloris/2/VA4024/appartement-t5-et-plus-10-pieces-nancy-54000-1785334601-VA4024_25_l.jpg",
+  "meta_desc": "Découvrez cet appartement (t5 et plus) de 10 pièces situé à Nancy (54000) disponible en vente.",
+  "price": "5 472 €",
+  "surface": "224",
+  "terrain": null,
+  "rooms": "10",
+  "bedrooms": "7",
+  "location": "Caractère",
+  "reference": "VA4024",
+  "dpe": "D",
+  "description": "À Nancy, Rue du Téméraire, découvrez cet appartement en duplex de 224 m², situé au deuxième et dernier étage d’une petite copropriété. Il offre dix pièces, la climatisation ainsi qu’un garage fermé sur cour.\nLe premier niveau concentre l’espace de vie, composé d’un double salon et d’une vaste cuisine indépendante. S’y ajoutent un bureau, les deux premières chambres bénéficiant d’une belle hauteur sous plafond, dont une climatisée, ainsi qu’une salle de bains avec WC.\nVous accéderez ensuite au niveau supérieur par un bel escalier. Cet étage, datant des années 1950-1960, offre de grandes ouvertures et des agréments précieux pour ses cinq chambres supplémentaires, chacune bénéficiant d’une pièce d’eau et de placards.\nLe bien dispose égalementd’un grenier accessible uniquement depuis l’appartement et d’une cave.\nUne rare opportunité de création et de rénovation dans un secteur privilégié.\nLes charges se ventilent de la façon suivante :\nTotal général, consommations de gaz et d’eau comprises : 507 € par mois.\nTotal général, hors consommations de gaz et d’eau : 232 € par mois.",
+  "first_seen": "2026-08-05T10:13:49.381254+00:00",
+  "active": true
+ },
+ "https://www.renoiretvaloris.com/vente/appartement-t5-et-plus-6-pieces-nancy-54000,VA3033": {
+  "url": "https://www.renoiretvaloris.com/vente/appartement-t5-et-plus-6-pieces-nancy-54000,VA3033",
+  "title": "À vendre - T5 et plus, 6 pièces situé à Nancy (54000)",
+  "image": "https://img.netty.immo/productcw/renoirvaloris/2/VA3033/appartement-t5-et-plus-6-pieces-nancy-54000-1752873947-VA3033_36_l.jpg",
+  "meta_desc": "Découvrez cet appartement (t5 et plus) de 6 pièces situé à Nancy (54000) disponible en vente.",
+  "price": "1 200 €",
+  "surface": "112",
+  "terrain": null,
+  "rooms": "6",
+  "bedrooms": "4",
+  "location": "Nancy 54000",
+  "reference": "VA3033",
+  "dpe": "D",
+  "description": "Au cœur de la vieille-ville de Nancy, découvrez cette rare opportunité d'acquisition, au dernier étage d'une copropriété de 1730 : Un duplex de 4 chambres sur 157 m² au sol, avec garage privatif et trois caves.\nCet appartement traversant propose en son premier niveau, un salon avec salle à manger luminineux et cuisine indépendante semi-ouverte, deux grandes chambres ainsi qu'une salle d’eau avec WC.\nÀ l'étage, un espace récréatif distribue deux chambres supplémentaires, dont une avec dressing et une seconde salle de bains avec WC.\nPour le confort du quotidien, vous apprécierez son garage fermé, privatif, au volume généreux.",
+  "first_seen": "2026-08-05T10:13:49.381254+00:00",
   "active": true
  }
 }
