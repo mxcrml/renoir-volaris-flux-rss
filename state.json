@@ -1000,7 +1000,7 @@
   "dpe": "E",
   "description": "Sur la commune de Nancy, dans le secteur recherché de Beauregard et à moins de deux minutes de toutes les commodités et accès autoroutiers, venez découvrir cet appartement de deux pièces au dernier étage.\nDans une copropriété à taille humaine et comprenant 16 appartements sur deux entrées, cet appartement se trouve au troisième et dernier étage.\nComposé d'un espace de vie d'environ 20 m², d'une cuisine séparée, d'une chambre et d'un bureau, cet appartement bénéficie d'une double exposition Est / Ouest. Cette exposition le baigne de lumière et offre à chacun de ses deux balcons de la lumière en fonction des moments de la journée.\nL'appartement bénéficie également de WC séparés et d'une salle d'eau avec fenêtre.\nIdéal pour un premier achat ou un investissement locatif, nous vous invitons à visiter ce bien sans plus tarder.\nClasse énergétique E : logement en consommation excessive.",
   "first_seen": "2026-07-23T13:21:10.695611+00:00",
-  "active": true
+  "active": false
  },
  "https://www.renoiretvaloris.com/vente/appartement-t2-2-pieces-nancy-54000,VA3764": {
   "url": "https://www.renoiretvaloris.com/vente/appartement-t2-2-pieces-nancy-54000,VA3764",
@@ -6763,6 +6763,23 @@
   "dpe": "E",
   "description": "Sur la commune de Nancy, à moins de 30 minutes à pieds du centre ville, venez découvrir ce bel appartement de 3 pièces entièrement rénové dans une petite copropriété entretenue des années 50.\nComposé d'une grande entrée centrale desservant l'appartement, vous trouverez un double salon-séjour de plus de 37m2 avec le charme de l'ancien : belle hauteur sous plafond, cheminées et parquets d'origine.\nCôté nuit, vous bénéficierez d'une chambre spacieuse avec rangement, orientée coté jardin.\nL'appartement dispose d'une salle d'eau et d'une cuisine équipée moderne.\nEn sus de ce bien, vous trouverez une cave et un grenier.\nNe tardez pas à visiter cet appartement.",
   "first_seen": "2026-08-08T08:18:32.818819+00:00",
+  "active": true
+ },
+ "https://www.renoiretvaloris.com/vente/maison-individuelle-7-pieces-richardmenil-54630,VM1708": {
+  "url": "https://www.renoiretvaloris.com/vente/maison-individuelle-7-pieces-richardmenil-54630,VM1708",
+  "title": "À vendre - Maison individuelle, 7 pièces située à Richardménil (54630)",
+  "image": "https://img.netty.immo/productcw/renoirvaloris/2/VM1708/maison-individuelle-7-pieces-richardmenil-54630-1786032649-VM1708_29_l.jpg",
+  "meta_desc": "Découvrez cette maison (individuelle) de 7 pièces située à Richardménil (54630) disponible en vente.",
+  "price": null,
+  "surface": "170",
+  "terrain": "644",
+  "rooms": "7",
+  "bedrooms": "4",
+  "location": "Richardménil 54630",
+  "reference": "VM1708",
+  "dpe": "C",
+  "description": "À Richardménil, à seulement 20 minutes au sud de Nancy, découvrez cette maison individuelle développant environ 190 m² au sol, dont 170 m² habitables. Implantée dans un environnement résidentiel calme et préservé des regards, elle offre un cadre de vie privilégié avec quatre chambres, un double garage, deux stationnements extérieurs, une piscine chauffée, une vaste terrasse et un jardin sans vis-à-vis.\nDès votre arrivée, vous serez séduit par l'atmosphère paisible de cette propriété et la qualité de ses prestations. Construite en 1995, parfaitement entretenue et rénovée, elle bénéficie d'un chauffage au sol, de la climatisation, d'une piscine chauffée, d'une terrasse idéalement exposée et de la possibilité de vivre entièrement de plain-pied pour un couple.\nLe hall d'entrée, sublimé par une belle hauteur sous plafond, s'ouvre sur un vaste espace de vie. Le salon d'environ 23 m², chaleureux et convivial, est dédié aux moments de détente en famille. Il est accompagné par une cuisine récente, entièrement aménagée et équipée avec de l'électroménager haut de gamme, un îlot central et de nombreux rangements.\nDans son prolongement, la salle à manger d'environ 22 m² bénéficie de larges baies vitrées et d'une verrière de toit, offrant une luminosité remarquable tout au long de la journée, été comme hiver. Cet espace de vie communique directement avec la terrasse, le jardin et la piscine, créant une parfaite continuité entre les espaces intérieurs et extérieurs.\nLe rez-de-chaussée accueille également une première chambre avec douche et vasque, idéale pour une vie de plain-pied ou pour recevoir, un WC indépendant, une grande buanderie ainsi qu'un double garage d'environ 40 m² équipé de deux portes motorisées.\nÀ l'étage, un large palier dessert d'un côté, une pièce pouvant être un bureau, une salle de jeux, un salon TV ou tout autre aménagement selon vos besoins. Une chambre d'environ 25 m², pouvant facilement être transformée en deux chambres séparées afin d'avoir quatre chambres. Enfin, une salle de bains avec douche, baignoire et de nombreux rangements complète ce niveau ainsi qu'une dernière chambre à l'opposée de ces espaces.\nUne maison familiale aux prestations soignées, offrant un confort de vie remarquable dans un environnement calme, à seulement quelques minutes de Nancy.",
+  "first_seen": "2026-08-10T09:00:25.769548+00:00",
   "active": true
  }
 }
