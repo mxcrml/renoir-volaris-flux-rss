@@ -6798,5 +6798,39 @@
   "description": "Situé sur la commune de Neuves-Maisons, venez découvrir cet appartement traversant de cinq pièces, avec balcon, garage et stationnement privatif, situé au deuxième et dernier étage d'une copropriété bien entretenue.\nDès l’entrée avec placard, vous serez séduit par un vaste séjour lumineux ouvert sur une cuisine équipée et bénéficiant d'un accès à un balcon exposé sud-est.\nCôté nuit, l’appartement dispose de trois chambres spacieuses, d’une salle de bains ainsi que d’un WC indépendant.\nUn garage ainsi qu’une place de parking privative viennent compléter ce bien.\nNous vous invitons à le visiter sans plus tarder.",
   "first_seen": "2026-08-12T08:50:24.877982+00:00",
   "active": true
+ },
+ "https://www.renoiretvaloris.com/vente/appartement-t4-4-pieces-nancy-54000,VA4111": {
+  "url": "https://www.renoiretvaloris.com/vente/appartement-t4-4-pieces-nancy-54000,VA4111",
+  "title": "À vendre - T4, 4 pièces situé à Nancy (54000)",
+  "image": "https://img.netty.immo/productcw/renoirvaloris/2/VA4111/appartement-t4-4-pieces-nancy-54000-1786610299-VA4111_24_l.jpg",
+  "meta_desc": "Découvrez cet appartement (t4) de 4 pièces situé à Nancy (54000) disponible en vente.",
+  "price": "3 600 €",
+  "surface": "132",
+  "terrain": null,
+  "rooms": "4",
+  "bedrooms": "3",
+  "location": "Nancy 54000",
+  "reference": "VA4111",
+  "dpe": "D",
+  "description": "À deux pas du Parc Olry et de la Place des Vosges, à proximité des commerces, écoles, transports en commun et de toutes commodités, venez découvrir ce bel appartement situé au deuxième étage avec ascenseur d'une petite copropriété datant du début du XXe siècle.\nVous y découvrirez une entrée spacieuse avec placards, une magnifique pièce de vie baignée de lumière d'environ 45 m², une cuisine aménagée et équipée.\nPour l'espace nuit, trois chambres spacieuses comprises entre 12 et 16 m² s'offrent à vous, ainsi qu'une grande salle d'eau et des WC indépendants.\nPour compléter ce bien, vous disposerez de deux caves ainsi que d'une place de parking privative.\nAucuns travaux majeurs ne sont à prévoir dans la copropriété. Les charges incluent également la consommation d'eau et de chauffage.",
+  "first_seen": "2026-08-15T07:56:32.644150+00:00",
+  "active": true
+ },
+ "https://www.renoiretvaloris.com/vente/maison-ancienne-4-pieces-laxou-54520,VM1273": {
+  "url": "https://www.renoiretvaloris.com/vente/maison-ancienne-4-pieces-laxou-54520,VM1273",
+  "title": "À vendre - Maison ancienne, 4 pièces située à Laxou (54520)",
+  "image": "https://img.netty.immo/productcw/renoirvaloris/2/VM1273/maison-ancienne-4-pieces-laxou-54520-1775728752-VM1273_45_l.jpg",
+  "meta_desc": "Découvrez cette maison (ancienne) de 4 pièces située à Laxou (54520) disponible en vente.",
+  "price": null,
+  "surface": "150",
+  "terrain": "275",
+  "rooms": "4",
+  "bedrooms": "3",
+  "location": "Laxou 54520",
+  "reference": "VM1273",
+  "dpe": null,
+  "description": "Sur la commune de LAXOU, à moins de 30 minutes à pied du plein centre-ville de Nancy et de ses commerces, venez découvrir cette charmante maison.\nDans un quartier résidentiel, cette belle maison de 1930 saura vous séduire avec ses beaux espaces lumineux.\nDès l'entrée, vous découvrirez un double salon-séjour avec cuisine ouverte donnant accès direct à l'extérieur, un WC indépendant et un cagibi.\nAu niveau supérieur, vous profiterez de 2 chambres spacieuses, un dressing et une salle de bains moderne.\nAu dernier étage, vous apprécierez un espace mansardé avec rangement, offrant de nombreuses possibilités d'aménagement : Chambre d'appoint, bureau, salle de jeux...\nEnfin, en rez-de-jardin, vous bénéficierez d'une troisième chambre avec accès direct aux extérieurs, une salle d'eau et un WC indépendant ainsi qu'un espace buanderie,\nEn sus, une grande terrasse avec jacuzzi et son jardin entretenu.\nNous vous invitons à visiter ce bien rare sans plus tarder.",
+  "first_seen": "2026-08-15T07:56:32.644150+00:00",
+  "active": true
  }
 }
