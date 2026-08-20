@@ -2632,7 +2632,7 @@
   "dpe": "C",
   "description": "Au cœur de Nancy, à deux pas de toutes les commodités et de l'animation du centre-ville, découvrez ce charmant duplex d'environ 92 m² habitables (115 m² au sol), situé au deuxième étage d'une copropriété idéalement implantée rue Charles III.\nDès l'entrée, vous serez séduit par un agencement fonctionnel composé d'un hall avec rangements, d'une cuisine entièrement équipée ouverte sur un agréable séjour offrant un espace de vie convivial et lumineux ainsi qu'un WC indépendant.\nÀ l'étage, l'espace nuit se compose de trois chambres dont deux disposent chacune d'une mezzanine, idéale pour créer un espace de couchage d'appoint, un coin lecture ou du rangement supplémentaire. Leur faible hauteur sous plafond apporte un véritable cachet à l'ensemble tout en optimisant les volumes du logement.\nCôté prestations, le bien est équipé d'une chaudière récente installée en 2024 garantissant confort et performance énergétique.\nActuellement exploité en location courte durée (Airbnb), cet appartement bénéficie d'une excellente rentabilité offrant une opportunité particulièrement intéressante pour un investisseur souhaitant reprendre une activité immédiatement opérationnelle. Son emplacement recherché, ses beaux volumes et sa capacité d'accueil constituent de véritables atouts pour la location saisonnière comme pour une résidence principale.\nQue vous soyez à la recherche d'un investissement rentable ou d'un appartement familial au cœur de Nancy, ce duplex saura vous séduire par son emplacement privilégié, ses volumes et son potentiel.\nN'attendez plus pour venir le découvrir.",
   "first_seen": "2026-07-23T13:21:10.695611+00:00",
-  "active": true
+  "active": false
  },
  "https://www.renoiretvaloris.com/vente/appartement-t4-4-pieces-nancy-54000,VA3564": {
   "url": "https://www.renoiretvaloris.com/vente/appartement-t4-4-pieces-nancy-54000,VA3564",
@@ -2870,7 +2870,7 @@
   "dpe": "A",
   "description": "Sur la commune de Saint-Max, dans un secteur très calme, recherché et à proximité de l’avenue Carnot ainsi que du centre-ville de Nancy, venez découvrir ce bel appartement de quatre pièces avec balcon et stationnement.\nSitué au deuxième étage, il bénéficie d’une exposition traversante et d’une belle luminosité.\nCôté agencement, la grande entrée permet de distribuer un séjour, une cuisine indépendante ainsi que trois chambres.\nVous apprécierez l’accès direct au balcon et la place de parking.\nNous vous invitons à visiter ce bien sans plus tarder.",
   "first_seen": "2026-07-23T13:21:10.695611+00:00",
-  "active": true
+  "active": false
  },
  "https://www.renoiretvaloris.com/vente/appartement-t4-4-pieces-saint-max-54130,VA4070": {
   "url": "https://www.renoiretvaloris.com/vente/appartement-t4-4-pieces-saint-max-54130,VA4070",
@@ -6831,6 +6831,23 @@
   "dpe": null,
   "description": "Sur la commune de LAXOU, à moins de 30 minutes à pied du plein centre-ville de Nancy et de ses commerces, venez découvrir cette charmante maison.\nDans un quartier résidentiel, cette belle maison de 1930 saura vous séduire avec ses beaux espaces lumineux.\nDès l'entrée, vous découvrirez un double salon-séjour avec cuisine ouverte donnant accès direct à l'extérieur, un WC indépendant et un cagibi.\nAu niveau supérieur, vous profiterez de 2 chambres spacieuses, un dressing et une salle de bains moderne.\nAu dernier étage, vous apprécierez un espace mansardé avec rangement, offrant de nombreuses possibilités d'aménagement : Chambre d'appoint, bureau, salle de jeux...\nEnfin, en rez-de-jardin, vous bénéficierez d'une troisième chambre avec accès direct aux extérieurs, une salle d'eau et un WC indépendant ainsi qu'un espace buanderie,\nEn sus, une grande terrasse avec jacuzzi et son jardin entretenu.\nNous vous invitons à visiter ce bien rare sans plus tarder.",
   "first_seen": "2026-08-15T07:56:32.644150+00:00",
+  "active": true
+ },
+ "https://www.renoiretvaloris.com/vente/appartement-t4-4-pieces-nancy-54000,VA4076": {
+  "url": "https://www.renoiretvaloris.com/vente/appartement-t4-4-pieces-nancy-54000,VA4076",
+  "title": "À vendre - T4, 4 pièces situé à Nancy (54000)",
+  "image": "https://img.netty.immo/productcw/renoirvaloris/2/VA4076/appartement-t4-4-pieces-nancy-54000-1784933238-VA4076_18_l.jpg",
+  "meta_desc": "Découvrez cet appartement (t4) de 4 pièces situé à Nancy (54000) disponible en vente.",
+  "price": "1 320 €",
+  "surface": "102.4",
+  "terrain": null,
+  "rooms": "4",
+  "bedrooms": "2",
+  "location": "Immeuble de caractère",
+  "reference": "VA4076",
+  "dpe": "C",
+  "description": "A quelques pas de la Pépinière de Nancy, dans un secteur particulièrement recherché pour son cadre de vie et sa proximité à la Vieille-ville, découvrez cet appartement de caractère comprenant 2 chambres avec 2 salles d'eau, une cave et un grenier dans un immeuble de grand standing.\nAu deuxieme étage, vous apprécierez sa grande pièce de vie avec salon et salle à manger, répondant à une cuisine indépendante avec coin repas.\nL'espace nuit se compose de 2 grandes chambres côté jardin, profitant chacunes de leur propre salle d'eau.\nEn complément, vous apprecierez un grenier et une cave qui ajouteront des espaces de rangement précieux.",
+  "first_seen": "2026-08-20T08:08:34.898080+00:00",
   "active": true
  }
 }
