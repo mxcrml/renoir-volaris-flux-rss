@@ -1850,7 +1850,7 @@
   "dpe": null,
   "description": "À Nancy proche de toutes les commodités et de l'Avenue Anatole France, venez découvrir ce charmant appartement avec balcon, situé au troisième étage d'une copropriété sécurisée.\nDès l'entrée, vous apprécierez une vastes pièce de vie bénéficiant d'un accès sur une cuisine indépendante et un balcon de près de 9 m². L'entièreté de ces pièces sont très lumineuses et profitent d'une orientation sud-ouest.\nCôté nuit, vous disposerez de deux chambres, une salle de bains et un WC indépendant.\nL'appartement peut nécessiter quelques rafraîchissements, mais a été très bien entretenu au fil des années.\nEn bonus, une cave au sous-sol de l'immeuble et la possibilité de louer ou d'acheter une place de parking dans la copropriété.\nNous vous invitons à le visiter sans plus tarder.",
   "first_seen": "2026-07-23T13:21:10.695611+00:00",
-  "active": true
+  "active": false
  },
  "https://www.renoiretvaloris.com/vente/appartement-t3-3-pieces-nancy-54000,VA3523": {
   "url": "https://www.renoiretvaloris.com/vente/appartement-t3-3-pieces-nancy-54000,VA3523",
@@ -5131,7 +5131,7 @@
   "dpe": "C",
   "description": "Sur la commune de Laxou, en plein cœur du village et proche de toutes les commodités, venez découvrir cette belle maison vigneronne offrant cinq chambres, un bel espace de vie ainsi qu'un beau jardin arboré.\nDivisée en deux espaces, le bien bénéficie d'un accès direct à une terrasse et au jardin depuis la pièce de vie. Celle-ci possède de très beaux volumes et une belle luminosité.\nCôté nuit, vous trouverez cinq belle chambres dont une suite parentale ainsi que deux pièces d'eau.\nAu niveau inférieur et côté rue, vous trouverez deux pièces pouvant faire office de bureaux ou de chambres, un patio, un atelier et une cave vigneronne.\nNous vous invitons à visiter ce bien sans plus tarder.",
   "first_seen": "2026-07-23T13:21:10.695611+00:00",
-  "active": true
+  "active": false
  },
  "https://www.renoiretvaloris.com/vente/maison-8-pieces-nancy-54000,VM1121": {
   "url": "https://www.renoiretvaloris.com/vente/maison-8-pieces-nancy-54000,VM1121",
@@ -6763,7 +6763,7 @@
   "dpe": "E",
   "description": "Sur la commune de Nancy, à moins de 30 minutes à pieds du centre ville, venez découvrir ce bel appartement de 3 pièces entièrement rénové dans une petite copropriété entretenue des années 50.\nComposé d'une grande entrée centrale desservant l'appartement, vous trouverez un double salon-séjour de plus de 37m2 avec le charme de l'ancien : belle hauteur sous plafond, cheminées et parquets d'origine.\nCôté nuit, vous bénéficierez d'une chambre spacieuse avec rangement, orientée coté jardin.\nL'appartement dispose d'une salle d'eau et d'une cuisine équipée moderne.\nEn sus de ce bien, vous trouverez une cave et un grenier.\nNe tardez pas à visiter cet appartement.",
   "first_seen": "2026-08-08T08:18:32.818819+00:00",
-  "active": true
+  "active": false
  },
  "https://www.renoiretvaloris.com/vente/maison-individuelle-7-pieces-richardmenil-54630,VM1708": {
   "url": "https://www.renoiretvaloris.com/vente/maison-individuelle-7-pieces-richardmenil-54630,VM1708",
@@ -6899,6 +6899,23 @@
   "dpe": "D",
   "description": "Sur la commune de Dombasle, découvrez cette charmante maison individuelle de caractère, construite en 1937, développant environ 115 m² habitables sur un beau terrain de 780 m².\nCe bien ancien séduit dès les premiers instants par son cachet et son authenticité, sublimés par de beaux parquets en bois massif présents dans l’ensemble des pièces.\nAu rez-de-chaussée, vous trouverez une cuisine aménagée ainsi qu’un grand salon-séjour d’environ 29 m², convivial et lumineux, bénéficiant d’une vue sur le jardin. Une salle de bains et des toilettes indépendantes complètent ce niveau.\nÀ l’étage, l’espace nuit se compose de trois chambres ainsi que de toilettes séparées pouvant être aménagées en salle d’eau offrant ainsi une possibilité d’évolution selon vos besoins.\nLa maison dispose également d’un sous-sol pouvant accueillir un véhicule ainsi que de nombreux espaces de rangement.\nÀ l’extérieur, vous profiterez d’un terrain de 780 m² offrant un agréable espace de verdure et de nombreuses possibilités d’aménagement pour profiter pleinement des beaux jours.\nCe bien de 1937 allie charme de l’ancien, beaux volumes et potentiel, dans un environnement agréable à Dombasle.\nUne maison familiale pleine de caractère, à découvrir sans tarder.",
   "first_seen": "2026-08-30T13:15:42.185988+00:00",
+  "active": true
+ },
+ "https://www.renoiretvaloris.com/vente/appartement-t4-4-pieces-nancy-54000,VA4124": {
+  "url": "https://www.renoiretvaloris.com/vente/appartement-t4-4-pieces-nancy-54000,VA4124",
+  "title": "À vendre - T4, 4 pièces situé à Nancy (54000)",
+  "image": "https://img.netty.immo/productcw/renoirvaloris/2/VA4124/appartement-t4-4-pieces-nancy-54000-1788168743-VA4124_15_l.jpg",
+  "meta_desc": "Découvrez cet appartement (t4) de 4 pièces situé à Nancy (54000) disponible en vente.",
+  "price": "1 200 €",
+  "surface": "77",
+  "terrain": null,
+  "rooms": "4",
+  "bedrooms": "2",
+  "location": "Nancy 54000 - Trois Maisons",
+  "reference": "VA4124",
+  "dpe": "D",
+  "description": "Sur la commune de Nancy, dans le secteur très apprécié du Faubourg des Trois Maisons, à proximité immédiate des commerces et de toutes les commodités, venez découvrir cet agréable appartement de plain-pied avec une terrasse et une place de parking.\nEntièrement rénové en 2026, ce bien offre un cadre de vie confortable et contemporain, sans aucun travaux à prévoir.\nDès l'entrée, vous découvrirez une belle pièce de vie de 39 m² réunissant séjour et cuisine ouverte entièrement équipée. Cet espace convivial bénéficie d'un accès direct vers l'extérieur et s'ouvre sur une agréable terrasse, idéale pour profiter des beaux jours.\nL'espace nuit se compose de deux chambres ainsi que d'une salle de bains. Une buanderie indépendante située à l'extérieur de l'appartement, vient compléter les prestations.\nUne place de parking privative constitue un véritable atout supplémentaire, particulièrement appréciable dans ce secteur de Nancy.\nUn bien clé en main à découvrir sans tarder.",
+  "first_seen": "2026-09-03T12:14:16.498553+00:00",
   "active": true
  }
 }
