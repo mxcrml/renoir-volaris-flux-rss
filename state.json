@@ -3958,7 +3958,7 @@
   "dpe": "D",
   "description": "Sur la commune de Saint-Max, venez découvrir cette superbe demeure de 337 m² habitables, pour près de 600 m² au sol, remarquablement rénovée avec une volonté de redonner un esprit familial, sur l'héritage architectural, comprenant 5 chambres, stationnements, garage et un jardin paysagé.\nLes marqueurs du passé : Parquet de Hongrie, moulures, carreaux de ciment, cheminées en pierre, boiseries sculptées unifient l'espace et sont associés à des finitions actuelles comme le ton réglisse utilisé dans la cuisine.\nLa maison est entourée par son charmant jardin paysagé, parfaitement entretenu, tous les éléments d'origine ont été conservés et sublimés.\nDerrière sa majestueuse porte en bois, l'entrée se découvre avec ses carreaux de ciment qui donne le ton et donne l'accès à deux espaces de vie aux codes classiques, tapissés de murs ivoire magnifiant les moulures des hauts plafonds blanc. Dans le prolongement, s'ouvre une cuisine et son coin repas, puis un couloir menant à des toilettes et à une chambre spacieuse avec salle de bain privative.\nCe magnifique espace s'ouvre sur une terrasse avec vue bucolique sur le jardinet.\nL'escalier en pierre, avec son garde-corps en fer forgé, dessert les étages supérieurs qui accueillent la partie nuit. Le palier distribue un univers blanc et ivoire aux salles de bains sobrement rétro ainsi que quatre grandes chambres supplémentaires et un bureau cosy.\nAu dernier niveau, entièrement aménageable, un grenier au volume impressionnant pour laisser libre cours à vos projets.\nLe sous-sol, parfaitement aménagé, dévoile de magnifiques caves voutées.\nEnfin, le jardin, petit écrin de verdure, est entouré de murs anciens.\nLe garage et l'atelier attenant complètent ces prestations rares pour cette demeure bourgeoise et bohème au charme poétique indéniable.",
   "first_seen": "2026-07-23T13:21:10.695611+00:00",
-  "active": false
+  "active": true
  },
  "https://www.renoiretvaloris.com/vente/maison-10-pieces-thelod-54330,VM1439": {
   "url": "https://www.renoiretvaloris.com/vente/maison-10-pieces-thelod-54330,VM1439",
@@ -6780,7 +6780,7 @@
   "dpe": "C",
   "description": "À Richardménil, à seulement 20 minutes au sud de Nancy, découvrez cette maison individuelle développant environ 190 m² au sol, dont 170 m² habitables. Implantée dans un environnement résidentiel calme et préservé des regards, elle offre un cadre de vie privilégié avec quatre chambres, un double garage, deux stationnements extérieurs, une piscine chauffée, une vaste terrasse et un jardin sans vis-à-vis.\nDès votre arrivée, vous serez séduit par l'atmosphère paisible de cette propriété et la qualité de ses prestations. Construite en 1995, parfaitement entretenue et rénovée, elle bénéficie d'un chauffage au sol, de la climatisation, d'une piscine chauffée, d'une terrasse idéalement exposée et de la possibilité de vivre entièrement de plain-pied pour un couple.\nLe hall d'entrée, sublimé par une belle hauteur sous plafond, s'ouvre sur un vaste espace de vie. Le salon d'environ 23 m², chaleureux et convivial, est dédié aux moments de détente en famille. Il est accompagné par une cuisine récente, entièrement aménagée et équipée avec de l'électroménager haut de gamme, un îlot central et de nombreux rangements.\nDans son prolongement, la salle à manger d'environ 22 m² bénéficie de larges baies vitrées et d'une verrière de toit, offrant une luminosité remarquable tout au long de la journée, été comme hiver. Cet espace de vie communique directement avec la terrasse, le jardin et la piscine, créant une parfaite continuité entre les espaces intérieurs et extérieurs.\nLe rez-de-chaussée accueille également une première chambre avec douche et vasque, idéale pour une vie de plain-pied ou pour recevoir, un WC indépendant, une grande buanderie ainsi qu'un double garage d'environ 40 m² équipé de deux portes motorisées.\nÀ l'étage, un large palier dessert d'un côté, une pièce pouvant être un bureau, une salle de jeux, un salon TV ou tout autre aménagement selon vos besoins. Une chambre d'environ 25 m², pouvant facilement être transformée en deux chambres séparées afin d'avoir quatre chambres. Enfin, une salle de bains avec douche, baignoire et de nombreux rangements complète ce niveau ainsi qu'une dernière chambre à l'opposée de ces espaces.\nUne maison familiale aux prestations soignées, offrant un confort de vie remarquable dans un environnement calme, à seulement quelques minutes de Nancy.",
   "first_seen": "2026-08-10T09:00:25.769548+00:00",
-  "active": true
+  "active": false
  },
  "https://www.renoiretvaloris.com/vente/appartement-t4-5-5-pieces-neuves-maisons-54230,VA4011": {
   "url": "https://www.renoiretvaloris.com/vente/appartement-t4-5-5-pieces-neuves-maisons-54230,VA4011",
@@ -6950,6 +6950,40 @@
   "dpe": "A",
   "description": "A Laneuveville-Devant-Nancy, dans un cadre privilégié, découvrez cette superbe maison d'architecte construite en 2019, parfaitement équipée, climatisée et bénéficiant de 4 chambres, dont une suite parentale.\nAprès avoir passé le portail privé, permettant de stationner plusieurs véhicules, vous profiterez immédiatement du volume de ce bien rare, où la pièce de vie avec cuisine ouverte sur le salon-séjour offre 50 m² en accès direct à la terrasse et au jardin sans vis-à-vis.\nCe premier niveau est complété par une première chambre, une buanderie et un WC indépendant.\nA l'étage, l'espace nuit se compose d'une mezzanine avec espace bureau, 3 chambres supplémentaires dont une suite parentale avec dressing et salle d'eau, ainsi qu'une salle de bains avec WC.\nUne opportunité à ne pas manquer.",
   "first_seen": "2026-09-04T12:15:13.209583+00:00",
+  "active": true
+ },
+ "https://www.renoiretvaloris.com/vente/appartement-duplex-3-pieces-saint-max-54130,VA3883": {
+  "url": "https://www.renoiretvaloris.com/vente/appartement-duplex-3-pieces-saint-max-54130,VA3883",
+  "title": "À vendre - Duplex, 3 pièces situé à Saint-Max (54130)",
+  "image": "https://img.netty.immo/productcw/renoirvaloris/2/VA3883/appartement-duplex-3-pieces-saint-max-54130-1788534286-VA3883_9_l.jpg",
+  "meta_desc": "Découvrez cet appartement (duplex) de 3 pièces situé à Saint-Max (54130) disponible en vente.",
+  "price": "1 080 €",
+  "surface": "62",
+  "terrain": null,
+  "rooms": "3",
+  "bedrooms": "2",
+  "location": "Spacieux",
+  "reference": "VA3883",
+  "dpe": "D",
+  "description": "Au cœur de la commune de Saint-Max, venez découvrir ce duplex traversant de trois pièces, idéalement situé à proximité du tramway et à seulement 5 à 10 minutes du centre-ville de Nancy.\nDès l’entrée, vous découvrirez un bel espace de vie traversant et lumineux composé d’un dégagement, d’un agréable séjour ainsi que d’une cuisine ouverte sur celui-ci.\nCôté nuit, l’étage se compose de deux belles chambres et d’une salle de bains avec WC.\nNous vous invitons à venir découvrir ce bien sans plus tarder.",
+  "first_seen": "2026-09-05T11:22:38.773214+00:00",
+  "active": true
+ },
+ "https://www.renoiretvaloris.com/vente/appartement-t5-et-plus-8-pieces-nancy-54000,VA4085": {
+  "url": "https://www.renoiretvaloris.com/vente/appartement-t5-et-plus-8-pieces-nancy-54000,VA4085",
+  "title": "À vendre - T5 et plus, 8 pièces situé à Nancy (54000)",
+  "image": "https://img.netty.immo/productcw/renoirvaloris/2/VA4085/appartement-t5-et-plus-8-pieces-nancy-54000-1788469631-VA4085_24_l.jpg",
+  "meta_desc": "Découvrez cet appartement (t5 et plus) de 8 pièces situé à Nancy (54000) disponible en vente.",
+  "price": "3 348 €",
+  "surface": "178",
+  "terrain": null,
+  "rooms": "8",
+  "bedrooms": "5",
+  "location": "calme",
+  "reference": "VA4085",
+  "dpe": "C",
+  "description": "À Nancy, dans le secteur très calme et résidentiel du Haut de Chèvres, venez découvrir ce charmant duplex d'une superficie de 228 m² au sol, avec une terrasse, deux stationnements et un grand balcon offrant une vue panoramique sur la ville.\nVous apprécierez une spacieuse pièce de vie d'environ 40 m² bénéficiant d'un accès direct à la terrasse d'un côté et au balcon filant de l'autre. Dans son prolongement, vous trouverez une cuisine ainsi qu'un grand espace cellier / buanderie.\nCe niveau dispose également de deux chambres, d'une salle d'eau et d'un WC indépendant.\nÀ l'étage, le bien propose trois chambres spacieuses dont une avec mezzanine pouvant être aménagée en un grand dressing ainsi qu'un bureau, une salle de bains équipée d'une douche, d'une baignoire et d'un WC indépendant.\nL'appartement peut nécessiter d'un rafraîchissement général. Toutefois, l'ensemble de l'installation intérieure de chauffage a été remplacé il y a 10 ans et les Velux ont été changés en 2024.\nEnfin, deux places de stationnement au sous-sol ainsi qu'une cave privative complètent ce bien.\nNous vous invitons à le visiter sans plus tarder.",
+  "first_seen": "2026-09-05T11:22:38.773214+00:00",
   "active": true
  }
 }
