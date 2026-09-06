@@ -2615,7 +2615,7 @@
   "dpe": "C",
   "description": "En plein centre-ville et profitant du calme de la Cour des Arts, à proximité de toutes les commodités et transports, découvrez cet appartement de 2 chambres, récemment rénové avec possibilité de garage double en sous-sol.\nL'entrée avec placard, donne accès à un vaste salon-séjour de 37 m², avec cuisine attenante, entièrement équipée.\nCôté nuit, deux chambres, donc une avec un grand dressing, profitent d'une vaste salle de bains avec baignoire, douche et placard. Un WC indépendant et un espace buanderie / cellier complète ce bien rare.\nPour le confort du quotidien, un garage double en sous-sol, avec éléctricité, est proposé en sus pour 33.000 € FAI.",
   "first_seen": "2026-07-23T13:21:10.695611+00:00",
-  "active": false
+  "active": true
  },
  "https://www.renoiretvaloris.com/vente/appartement-t4-4-pieces-nancy-54000,VA3501": {
   "url": "https://www.renoiretvaloris.com/vente/appartement-t4-4-pieces-nancy-54000,VA3501",
@@ -6389,7 +6389,7 @@
   "dpe": "D",
   "description": "Dans un environnement calme et recherché, à proximité des commerces, écoles, axes autoroutiers et de toutes commodités, découvrez cette charmante maison d’environ 143 m², offrant 3 chambres, un garage et un jardin agréable.\nAu rez-de-chaussée, une entrée mène à un spacieux garage motorisé, une buanderie – chaufferie ainsi qu’à une salle d’eau fonctionnelle.\nÀ l’étage principal, vous trouverez une cuisine indépendante, aménagée et équipée, donnant accès directement à une grande terrasse et au jardin.\nLe salon-séjour traversant, lumineux et convivial, s’ouvre lui aussi sur l’extérieur.\nUne salle de bains et des toilettes séparées complètent ce niveau.\nLe dernier étage accueille l’espace nuit composé de trois grandes chambres, de toilettes indépendantes et d’un palier pouvant servir de bureau ou d’espace détente.\nÀ l’extérieur, vous profiterez d’une terrasse d’environ 30 m² exposée sud-ouest, idéale pour les beaux jours, ainsi que d’un jardin sans vis-à-vis.\nUne allée à l’avant de la maison permet également le stationnement d’un véhicule, en complément du garage.\nLa maison est saine, parfaitement entretenue par ses propriétaires et ne nécessite que quelques rafraîchissements pour révéler tout son potentiel.\nUne visite virtuelle est disponible sur demande.",
   "first_seen": "2026-07-23T13:21:10.695611+00:00",
-  "active": false
+  "active": true
  },
  "https://www.renoiretvaloris.com/vente/maison-traditionnelle-7-pieces-vandoeuvre-les-nancy-54500,VM1197": {
   "url": "https://www.renoiretvaloris.com/vente/maison-traditionnelle-7-pieces-vandoeuvre-les-nancy-54500,VM1197",
@@ -6780,7 +6780,7 @@
   "dpe": "C",
   "description": "À Richardménil, à seulement 20 minutes au sud de Nancy, découvrez cette maison individuelle développant environ 190 m² au sol, dont 170 m² habitables. Implantée dans un environnement résidentiel calme et préservé des regards, elle offre un cadre de vie privilégié avec quatre chambres, un double garage, deux stationnements extérieurs, une piscine chauffée, une vaste terrasse et un jardin sans vis-à-vis.\nDès votre arrivée, vous serez séduit par l'atmosphère paisible de cette propriété et la qualité de ses prestations. Construite en 1995, parfaitement entretenue et rénovée, elle bénéficie d'un chauffage au sol, de la climatisation, d'une piscine chauffée, d'une terrasse idéalement exposée et de la possibilité de vivre entièrement de plain-pied pour un couple.\nLe hall d'entrée, sublimé par une belle hauteur sous plafond, s'ouvre sur un vaste espace de vie. Le salon d'environ 23 m², chaleureux et convivial, est dédié aux moments de détente en famille. Il est accompagné par une cuisine récente, entièrement aménagée et équipée avec de l'électroménager haut de gamme, un îlot central et de nombreux rangements.\nDans son prolongement, la salle à manger d'environ 22 m² bénéficie de larges baies vitrées et d'une verrière de toit, offrant une luminosité remarquable tout au long de la journée, été comme hiver. Cet espace de vie communique directement avec la terrasse, le jardin et la piscine, créant une parfaite continuité entre les espaces intérieurs et extérieurs.\nLe rez-de-chaussée accueille également une première chambre avec douche et vasque, idéale pour une vie de plain-pied ou pour recevoir, un WC indépendant, une grande buanderie ainsi qu'un double garage d'environ 40 m² équipé de deux portes motorisées.\nÀ l'étage, un large palier dessert d'un côté, une pièce pouvant être un bureau, une salle de jeux, un salon TV ou tout autre aménagement selon vos besoins. Une chambre d'environ 25 m², pouvant facilement être transformée en deux chambres séparées afin d'avoir quatre chambres. Enfin, une salle de bains avec douche, baignoire et de nombreux rangements complète ce niveau ainsi qu'une dernière chambre à l'opposée de ces espaces.\nUne maison familiale aux prestations soignées, offrant un confort de vie remarquable dans un environnement calme, à seulement quelques minutes de Nancy.",
   "first_seen": "2026-08-10T09:00:25.769548+00:00",
-  "active": false
+  "active": true
  },
  "https://www.renoiretvaloris.com/vente/appartement-t4-5-5-pieces-neuves-maisons-54230,VA4011": {
   "url": "https://www.renoiretvaloris.com/vente/appartement-t4-5-5-pieces-neuves-maisons-54230,VA4011",
@@ -6984,6 +6984,40 @@
   "dpe": "C",
   "description": "À Nancy, dans le secteur très calme et résidentiel du Haut de Chèvres, venez découvrir ce charmant duplex d'une superficie de 228 m² au sol, avec une terrasse, deux stationnements et un grand balcon offrant une vue panoramique sur la ville.\nVous apprécierez une spacieuse pièce de vie d'environ 40 m² bénéficiant d'un accès direct à la terrasse d'un côté et au balcon filant de l'autre. Dans son prolongement, vous trouverez une cuisine ainsi qu'un grand espace cellier / buanderie.\nCe niveau dispose également de deux chambres, d'une salle d'eau et d'un WC indépendant.\nÀ l'étage, le bien propose trois chambres spacieuses dont une avec mezzanine pouvant être aménagée en un grand dressing ainsi qu'un bureau, une salle de bains équipée d'une douche, d'une baignoire et d'un WC indépendant.\nL'appartement peut nécessiter d'un rafraîchissement général. Toutefois, l'ensemble de l'installation intérieure de chauffage a été remplacé il y a 10 ans et les Velux ont été changés en 2024.\nEnfin, deux places de stationnement au sous-sol ainsi qu'une cave privative complètent ce bien.\nNous vous invitons à le visiter sans plus tarder.",
   "first_seen": "2026-09-05T11:22:38.773214+00:00",
+  "active": true
+ },
+ "https://www.renoiretvaloris.com/vente/appartement-t5-et-plus-6-pieces-nancy-54000,VA3991": {
+  "url": "https://www.renoiretvaloris.com/vente/appartement-t5-et-plus-6-pieces-nancy-54000,VA3991",
+  "title": "À vendre - T5 et plus, 6 pièces situé à Nancy (54000)",
+  "image": "https://img.netty.immo/productcw/renoirvaloris/2/VA3991/appartement-t5-et-plus-6-pieces-nancy-54000-1780263573-VA3991_18_l.jpg",
+  "meta_desc": "Découvrez cet appartement (t5 et plus) de 6 pièces situé à Nancy (54000) disponible en vente.",
+  "price": "3 324 €",
+  "surface": "146",
+  "terrain": null,
+  "rooms": "6",
+  "bedrooms": "4",
+  "location": "Ascenseur",
+  "reference": "VA3991",
+  "dpe": "D",
+  "description": "​​​​À Nancy, au cœur d'un quartier privilégié à deux pas de la Rue Isabey et à seulement 10 minutes à pied de la gare, venez découvrir ce bel appartement traversant. Au premier étage d'une copropriété très bien entretenue, il offre les services d'une gardienne et dispose d'un ascenseur.\nDès l'entrée, vous serez séduit par un vaste dégagement qui dessert un bel espace de vie lumineux de plus de 30 m². Climatisé, ce salon-séjour bénéficie d'une belle hauteur sous plafond. La cuisine, indépendante et entièrement équipée, offre un espace très fonctionnel.\nCôté nuit, l'appartement dispose de 4 chambres et 1 bureau, dont une suite parentale de 25 m² avec climatisation, dressing et accès direct à un joli balcon. Les trois autres chambres oscillent entre 11 et 14 m². Une salle de bains moderne est équipée à la fois d'une baignoire et d'une douche.\nUne cave et un grenier complètent ce bien. En sus, vous pourrez aussi acquérir un box fermé dans l'enceinte de la copropriété.\nUn bien rare sur le secteur, à quelques pas de commerces et des transports en commun. A visiter sans tarder !",
+  "first_seen": "2026-09-06T11:44:31.921424+00:00",
+  "active": true
+ },
+ "https://www.renoiretvaloris.com/vente/maison-4-pieces-nancy-54000,VM1726": {
+  "url": "https://www.renoiretvaloris.com/vente/maison-4-pieces-nancy-54000,VM1726",
+  "title": "À vendre - Maison, 4 pièces située à Nancy (54000)",
+  "image": "https://img.netty.immo/productcw/renoirvaloris/2/VM1726/maison-4-pieces-nancy-54000-1788350769-VM1726_12_l.jpg",
+  "meta_desc": "Découvrez cette maison de 4 pièces située à Nancy (54000) disponible en vente.",
+  "price": null,
+  "surface": "102",
+  "terrain": "150",
+  "rooms": "4",
+  "bedrooms": "2",
+  "location": "Nancy 54000 - Bonsecours - Strasbourg",
+  "reference": "VM1726",
+  "dpe": "D",
+  "description": "À Nancy, découvrez cette charmante maison de ville datant de 1800, idéalement située dans le secteur Strasbourg - Bonsecour, offrant un cadre de vie rare et authentique à proximité des commodités.\nDerrière sa façade discrète se dévoile une maison pleine de caractère, où la pierre, les boiseries et les éléments anciens témoignent de son histoire et lui confèrent une atmosphère chaleureuse et intemporelle.\nLe rez-de-chaussée accueille une cuisine, ainsi qu'un agréable espace séjour-salon ouvrant directement sur une terrasse et un jardin exposés Sud-Ouest. Un WC indépendant et une salle d'eau complètent ce niveau.\nAu premier étage, vous découvrirez une chambre avec salle d'eau privative et balcon, ainsi qu'un palier offrant la possibilité d'être facilement cloisonné afin de créer une chambre supplémentaire.\nLe deuxième étage, aménagé dans les combles, propose une chambre ainsi qu'un espace pouvant être destiné à un bureau ou un dressing, selon les besoins.\nCette maison séduit avant tout par son cachet et son authenticité, avec de beaux éléments anciens qui ne demandent qu'à être révélés. Un rafraîchissement et une remise au goût du jour permettront au futur propriétaire de personnaliser les lieux et de leur redonner tout leur éclat.\nÀ l'extérieur, le jardin exposé Sud-Ouest constitue un véritable prolongement de la maison, offrant un espace privilégié pour profiter des beaux jours.\nUne maison de caractère, pleine de charme et de potentiel, qui saura séduire les amateurs d'authenticité à la recherche d'un bien à façonner à leur image.",
+  "first_seen": "2026-09-06T11:44:31.921424+00:00",
   "active": true
  }
 }
