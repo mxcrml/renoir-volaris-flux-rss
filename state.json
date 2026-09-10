@@ -5896,7 +5896,7 @@
   "dpe": "D",
   "description": "Dans le secteur prisé de Dommartemont, apprécié pour son calme, sa proximité avec les commodités et le centre-ville de Nancy, découvrez cette maison individuelle à vendre, de 295 m² au sol et 210 m² habitables, proposant 5 chambres, un jardin avec piscine et un double garage.\nLe rez-de-jardin offre une pièce de vie de plus de 60 m² ainsi qu’une cuisine indépendante, le tout ouvert sur des extérieurs parfaitement entretenus.\nÀ l’étage, le coin nuit distribue les trois premières chambres, une salle de bains avec baignoire et douche, ainsi qu’un second WC. Sous les combles, une chambre bénéficie de sa propre salle de bains.\nPour le confort du quotidien, le rez-de-chaussée profite de nombreux espaces de rangement et d’une cinquième chambre / bureau avec entrée indépendante, idéale pour recevoir ses proches ou télétravailler.\nUn garage double complète ce bien.\nUne opportunité rare à ne pas manquer.",
   "first_seen": "2026-07-23T13:21:10.695611+00:00",
-  "active": true
+  "active": false
  },
  "https://www.renoiretvaloris.com/vente/maison-individuelle-7-pieces-fleville-devant-nancy-54710,VM1085": {
   "url": "https://www.renoiretvaloris.com/vente/maison-individuelle-7-pieces-fleville-devant-nancy-54710,VM1085",
@@ -7018,6 +7018,23 @@
   "dpe": "D",
   "description": "À Nancy, découvrez cette charmante maison de ville datant de 1800, idéalement située dans le secteur Strasbourg - Bonsecour, offrant un cadre de vie rare et authentique à proximité des commodités.\nDerrière sa façade discrète se dévoile une maison pleine de caractère, où la pierre, les boiseries et les éléments anciens témoignent de son histoire et lui confèrent une atmosphère chaleureuse et intemporelle.\nLe rez-de-chaussée accueille une cuisine, ainsi qu'un agréable espace séjour-salon ouvrant directement sur une terrasse et un jardin exposés Sud-Ouest. Un WC indépendant et une salle d'eau complètent ce niveau.\nAu premier étage, vous découvrirez une chambre avec salle d'eau privative et balcon, ainsi qu'un palier offrant la possibilité d'être facilement cloisonné afin de créer une chambre supplémentaire.\nLe deuxième étage, aménagé dans les combles, propose une chambre ainsi qu'un espace pouvant être destiné à un bureau ou un dressing, selon les besoins.\nCette maison séduit avant tout par son cachet et son authenticité, avec de beaux éléments anciens qui ne demandent qu'à être révélés. Un rafraîchissement et une remise au goût du jour permettront au futur propriétaire de personnaliser les lieux et de leur redonner tout leur éclat.\nÀ l'extérieur, le jardin exposé Sud-Ouest constitue un véritable prolongement de la maison, offrant un espace privilégié pour profiter des beaux jours.\nUne maison de caractère, pleine de charme et de potentiel, qui saura séduire les amateurs d'authenticité à la recherche d'un bien à façonner à leur image.",
   "first_seen": "2026-09-06T11:44:31.921424+00:00",
+  "active": true
+ },
+ "https://www.renoiretvaloris.com/vente/appartement-t4-4-pieces-nancy-54000,VA3895": {
+  "url": "https://www.renoiretvaloris.com/vente/appartement-t4-4-pieces-nancy-54000,VA3895",
+  "title": "À vendre - T4, 4 pièces situé à Nancy (54000)",
+  "image": "https://img.netty.immo/productcw/renoirvaloris/2/VA3895/appartement-t4-4-pieces-nancy-54000-1788526582-VA3895_8_l.jpg",
+  "meta_desc": "Découvrez cet appartement (t4) de 4 pièces situé à Nancy (54000) disponible en vente.",
+  "price": null,
+  "surface": "82",
+  "terrain": null,
+  "rooms": "4",
+  "bedrooms": "2",
+  "location": "Nancy 54000 - Colline",
+  "reference": "VA3895",
+  "dpe": "C",
+  "description": "À Nancy, découvrez ce charmant triplex situé dans le secteur Colline, au cœur d’un environnement résidentiel agréable et à proximité des commodités.\nEn bon état général et rénové il y a une dizaine d’années, ce bien se distingue par sa distribution fonctionnelle et ses beaux volumes. L’entrée, située au rez-de-chaussée, dessert un WC indépendant et mène aux différents espaces de vie.\nAu premier étage, une belle pièce de vie traversante de plus de 35 m², baignée de lumière grâce à sa bonne exposition. Cet espace réunit séjour et cuisine entièrement équipée, dans une ambiance conviviale et chaleureuse.\nLe deuxième étage est entièrement consacré à l’espace nuit. Il se compose de deux chambres, d’une salle d’eau avec douche et WC, ainsi que d’un dressing et d’une buanderie.\nEntretenu avec soin, ce triplex offre une installation immédiate et une organisation agréable au quotidien. Sa configuration lui confère l’esprit d’une maison, tout en conservant les avantages d’un appartement.\nÀ découvrir sans tarder.",
+  "first_seen": "2026-09-10T12:21:56.004244+00:00",
   "active": true
  }
 }
