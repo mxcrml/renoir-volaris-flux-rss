@@ -3210,7 +3210,7 @@
   "dpe": "C",
   "description": "Sur la commune de Nancy, en plein cœur d'un très recherché, quartier résidentiel, venez découvrir ce somptueux appartement de cinq pièces en plain-pied, avec terrasse, jardin et double garage.\nComposé d'une belle entrée privative, d'un grand séjour donnant sur une cuisine ouverte et complètement équipée, cet espace de vie donne directement sur une terrasse en dalle sur plot et un jardin privatif.\nCôté nuit, vous profiterez de trois belles chambres dont une suite parentale avec un dressing et salle d'eau. Les deux autres chambres partagent une salle de bain de plus de 10 m².\nL'appartement est équipé de nombreux rangements, des placards dans le couloir et un cellier situé derrière la cuisine faisant également office de buanderie.\nPour vos stationnements, vous trouverez deux garages équipés de portes sectionnelles électriques et raccordés à l'électricité, idéal pour installer une borne de recharge électrique. L'appartement dispose par ailleurs d'une troisième place de stationnement, en extérieur.\nLa rénovation du logement est de très bonne facture, les menuiseries sont de dernière génération, très isolantes, en PVC et en aluminium et l'entièreté des ouvrants est équipé de brises soleil orientables.\nUne cave isolée vient compléter ce bien.\nSi vous cherchez un bien de caractère, au premier et dernier étage, ce logement est fait pour vous !",
   "first_seen": "2026-07-23T13:21:10.695611+00:00",
-  "active": true
+  "active": false
  },
  "https://www.renoiretvaloris.com/vente/appartement-t5-et-plus-5-pieces-nancy-54000,VA2948": {
   "url": "https://www.renoiretvaloris.com/vente/appartement-t5-et-plus-5-pieces-nancy-54000,VA2948",
@@ -7120,6 +7120,23 @@
   "dpe": "C",
   "description": "À Villers-lès-Nancy, au sein d’une résidence récente de standing située à deux pas du parc de Graffigny, découvrez cet appartement bénéficiant d’un environnement calme et privilégié. Il propose deux chambres, une généreuse pièce de vie et surtout de remarquables extérieurs avec une terrasse privative d'environ 37 m², prolongée par un jardin clos d’environ 249 m².\nLa résidence offre tout le confort d’une construction moderne avec chauffage au sol, volets roulants électriques, ascenseur et accès PMR, à proximité immédiate d'un arrêt de bus.\nLe chauffage et l'eau chaude sont compris dans les charges.\nL’appartement s’ouvre sur un hall d’entrée avec placard et dessert deux chambres d’environ 10 et 14 m², bénéficiant chacune d’un accès direct vers l’extérieur. Une grande salle de bains et un WC indépendant complètent cette première partie.\nLa pièce maîtresse de l’appartement est son espace de vie traversant d’environ 40 m², cuisine équipée comprise. Particulièrement lumineux grâce à son immense baie vitrée, il se prolonge naturellement vers une terrasse carrelée d'environ 37 m² et le jardin clos d’environ 249 m². Un véritable espace de vie supplémentaire aux beaux jours, avec une vue dégagée permettant de profiter des couchers de soleil sur la forêt de Haye.\nEnfin, un garage d’environ 23 m², directement accessible par l’ascenseur de la résidence et équipé d’un point lumineux ainsi que d’une prise électrique, complète ce bien.\nUn appartement rare par la qualité de son environnement, ses prestations et surtout ses généreux espaces extérieurs, à proximité immédiate du centre de Villers-lès-Nancy.",
   "first_seen": "2026-09-19T12:02:46.175256+00:00",
+  "active": true
+ },
+ "https://www.renoiretvaloris.com/vente/appartement-duplex-6-pieces-nancy-54000,VA4140": {
+  "url": "https://www.renoiretvaloris.com/vente/appartement-duplex-6-pieces-nancy-54000,VA4140",
+  "title": "À vendre - Duplex, 6 pièces situé à Nancy (54000)",
+  "image": "https://img.netty.immo/productcw/renoirvaloris/2/VA4140/appartement-duplex-6-pieces-nancy-54000-1789845045-VA4140_12_l.jpg",
+  "meta_desc": "Découvrez cet appartement (duplex) de 6 pièces situé à Nancy (54000) disponible en vente.",
+  "price": null,
+  "surface": "109",
+  "terrain": null,
+  "rooms": "6",
+  "bedrooms": "3",
+  "location": "Nancy 54000 - Thermal",
+  "reference": "VA4140",
+  "dpe": "D",
+  "description": "En plein cœur du très recherché quartier Thermal, venez découvrir cet appartement de cinq pièces en duplex avec climatisation réversible, situé dans une petite copropriété calme et bien entretenue.\nSitué au premier et dernier étage, il dispose d’une belle entrée desservant une cuisine indépendante, un séjour lumineux, une chambre avec rangement, une salle d’eau ainsi qu'un WC indépendant.\nAu dernier niveau, vous trouverez deux chambres et une salle d’eau moderne.\nLe tout bénéficie d’une belle hauteur sous plafond et du charme de l’ancien, avec un balcon donnant sur le parc.\nEn sus, ce charmant appartement dispose de deux caves et d’un débarras.\nNe tardez pas à visiter ce bien rare.",
+  "first_seen": "2026-09-22T12:48:51.099482+00:00",
   "active": true
  }
 }
