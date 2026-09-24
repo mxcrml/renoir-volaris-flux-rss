@@ -133,7 +133,7 @@
   "dpe": "D",
   "description": "Sur la commune de NANCY, dans le secteur de l'avenue de la Libération, au premier étage d'une copropriété de cinq lots, venez découvrir ce bel appartement loué, idéal pour un investissement locatif.\nComposé de beaux espaces et bénéficiant d'une exposition plein Sud, l'appartement possède un grand salon séjour double, une cuisine indépendante, une salle de bain et une chambre.\nActuellement loué 450 € / mois hors charges, le bien offre un revenu annuel de 5 400 €.\nNous vous invitons à visiter ce bien sans plus tarder.",
   "first_seen": "2026-07-23T13:21:10.695611+00:00",
-  "active": true
+  "active": false
  },
  "https://www.renoiretvaloris.com/vente/appartement-3-pieces-villers-les-nancy-54600,VA3066": {
   "url": "https://www.renoiretvaloris.com/vente/appartement-3-pieces-villers-les-nancy-54600,VA3066",
@@ -354,7 +354,7 @@
   "dpe": "E",
   "description": "À Nancy, situé à deux pas de la Place Paul Painlevé, du Parc Sainte-Marie et de Nancy Thermal, dans un quartier apprécié pour sa qualité de vie et sa proximité immédiate des commerces, écoles, transports et axes routiers.\nCet appartement en duplex se situe au deuxième et troisième étage d’une petite copropriété bien entretenue. Il propose trois chambres, un vaste séjour - salle à manger, une grande cave, deux greniers et une place de parking sécurisée disponible à la location.\nL’entrée, située au troisième étage, s’ouvre sur un dégagement avec rangement et penderie. Ce niveau accueille un double séjour lumineux d’environ 37 m² avec placard, une première chambre avec placard également, une salle de bains équipée d’une double vasque et d’un WC, ainsi qu’une cuisine spacieuse, aménagée et équipée, bénéficiant d’une agréable vue dégagée.\nIl offre une possibilité de créer une quatrième chambre en réduisant la taille du séjour à 25 m².\nLe niveau inférieur, dédié à l’espace nuit, se compose d’un couloir avec placard intégré, de deux chambres supplémentaires avec dressing intégrés, dont l’une dispose d’un WC et d’un espace buanderie.\nEn annexe, l’appartement dispose d’une grande cave de 18 m² et de deux greniers sous toiture pour le stockage. Une place de parking sécurisée est disponible à la location dans une copropriété voisine.",
   "first_seen": "2026-07-23T13:21:10.695611+00:00",
-  "active": false
+  "active": true
  },
  "https://www.renoiretvaloris.com/vente/appartement-duplex-6-pieces-nancy-54000,VA2180": {
   "url": "https://www.renoiretvaloris.com/vente/appartement-duplex-6-pieces-nancy-54000,VA2180",
@@ -1085,7 +1085,7 @@
   "dpe": "D",
   "description": "Sur les hauteurs de Nancy, à proximité immédiate du parc de la Cure d’Air, des transports en commun, des écoles et de toutes les commodités, venez découvrir cet appartement de deux pièces, rénové en 2026 bénéficiant d’un accès PMR.\nIl se compose d’une entrée avec dressing desservant une spacieuse pièce de vie baignée de lumière offrant une vue panoramique sur toute la ville de Nancy ainsi que d’une cuisine équipée attenante, aménagée et équipée.\nIl vous sera également possible d’ouvrir entièrement la cloison séparant la cuisine et le séjour.\nL’espace nuit propose une chambre avec placard, une salle de bains ainsi que des WC indépendants.\nCôté stationnement, il vous sera possible de vous stationner aisément et gratuitement devant la résidence ou d’acquérir une place de parking souterraine privative en supplément.\nConcernant l’immeuble, aucun travaux de copropriété majeurs ne sont à prévoir.\nUne visite virtuelle est disponible sur demande.",
   "first_seen": "2026-07-23T13:21:10.695611+00:00",
-  "active": true
+  "active": false
  },
  "https://www.renoiretvaloris.com/vente/appartement-t2-2-pieces-nancy-54000,VA3925": {
   "url": "https://www.renoiretvaloris.com/vente/appartement-t2-2-pieces-nancy-54000,VA3925",
@@ -3210,7 +3210,7 @@
   "dpe": "C",
   "description": "Sur la commune de Nancy, en plein cœur d'un très recherché, quartier résidentiel, venez découvrir ce somptueux appartement de cinq pièces en plain-pied, avec terrasse, jardin et double garage.\nComposé d'une belle entrée privative, d'un grand séjour donnant sur une cuisine ouverte et complètement équipée, cet espace de vie donne directement sur une terrasse en dalle sur plot et un jardin privatif.\nCôté nuit, vous profiterez de trois belles chambres dont une suite parentale avec un dressing et salle d'eau. Les deux autres chambres partagent une salle de bain de plus de 10 m².\nL'appartement est équipé de nombreux rangements, des placards dans le couloir et un cellier situé derrière la cuisine faisant également office de buanderie.\nPour vos stationnements, vous trouverez deux garages équipés de portes sectionnelles électriques et raccordés à l'électricité, idéal pour installer une borne de recharge électrique. L'appartement dispose par ailleurs d'une troisième place de stationnement, en extérieur.\nLa rénovation du logement est de très bonne facture, les menuiseries sont de dernière génération, très isolantes, en PVC et en aluminium et l'entièreté des ouvrants est équipé de brises soleil orientables.\nUne cave isolée vient compléter ce bien.\nSi vous cherchez un bien de caractère, au premier et dernier étage, ce logement est fait pour vous !",
   "first_seen": "2026-07-23T13:21:10.695611+00:00",
-  "active": false
+  "active": true
  },
  "https://www.renoiretvaloris.com/vente/appartement-t5-et-plus-5-pieces-nancy-54000,VA2948": {
   "url": "https://www.renoiretvaloris.com/vente/appartement-t5-et-plus-5-pieces-nancy-54000,VA2948",
@@ -6083,7 +6083,7 @@
   "dpe": "C",
   "description": "Située sur les hauteurs de Laxou, dans un environnement prisé à proximité immédiate du parcours de santé, cette belle maison individuelle édifiée sur une parcelle d'environ 622m² séduira aussi bien les familles que les personnes recherchant le confort d'une vie de plain-pied.\nParfaitement entretenue, elle offre cinq chambres, un double garage et un agréable jardin arboré.\nDès l'entrée, vous serez séduits par une belle pièce de vie baignée de lumière grâce à sa triple exposition.\nElle accueille un salon-séjour convivial ouvert sur une cuisine haut de gamme, entièrement aménagée et équipée, avec un accès direct à la terrasse et au jardin.\nLe rez-de-chaussée permet de vivre entièrement sur un seul niveau grâce à la présence de deux chambres, d'une confortable suite parentale, d'une salle de bains, de deux WC et de rangement.\nUne surélévation réalisée en 2019 est venue apportée à la maison deux vastes pièces supplémentaires d'environ 30 m² chacune.\nModulables selon vos besoins, elles pourront accueillir chambres,  salle de jeux ou encore espace détente par exemple.\nUn poêle à granulés y apporte également un confort appréciable.\nLe sous-sol, entièrement aménagé, offre de très beaux volumes avec une buanderie fonctionnelle, deux chambres dont une avec salle d'eau privative, une cave, une chaufferie ainsi qu'un spacieux double garage équipé d'une porte motorisée.\nÀ l'extérieur, une grande allée située à l'avant permet de stationner jusqu'à trois véhicules.\nÀ l'arrière, vous profiterez d'une agréable terrasse prolongée par un jardin arboré, intimiste et sans vis-à-vis.\nSoigneusement entretenue, cette maison a bénéficié de nombreuses rénovations.\nUn dossier complet des travaux et des factures est disponible à l'agence.\nCôté confort, elle est équipée d'une chaudière Viessmann régulièrement entretenue, complétée par un poêle à granulés installé en 2019.\nL'ensemble des menuiseries est en triple vitrage, garantissant d'excellentes performances thermiques et acoustiques.\nLes fenêtres, volets, la porte d'entrée ainsi que la porte de garage ont été remplacés entre 2017 et 2022.\nEnfin, la cuisine, la buanderie ainsi que l'ensemble du mobilier réalisé sur mesure par Schmidt seront intégralement laissés aux futurs propriétaires, pour une maison prête à vivre dès le premier jour.",
   "first_seen": "2026-07-23T13:21:10.695611+00:00",
-  "active": true
+  "active": false
  },
  "https://www.renoiretvaloris.com/vente/maison-mitoyenne-1-cote-4-pieces-foug-54570,VM296": {
   "url": "https://www.renoiretvaloris.com/vente/maison-mitoyenne-1-cote-4-pieces-foug-54570,VM296",
@@ -7137,6 +7137,57 @@
   "dpe": "D",
   "description": "En plein cœur du très recherché quartier Thermal, venez découvrir cet appartement de cinq pièces en duplex avec climatisation réversible, situé dans une petite copropriété calme et bien entretenue.\nSitué au premier et dernier étage, il dispose d’une belle entrée desservant une cuisine indépendante, un séjour lumineux, une chambre avec rangement, une salle d’eau ainsi qu'un WC indépendant.\nAu dernier niveau, vous trouverez deux chambres et une salle d’eau moderne.\nLe tout bénéficie d’une belle hauteur sous plafond et du charme de l’ancien, avec un balcon donnant sur le parc.\nEn sus, ce charmant appartement dispose de deux caves et d’un débarras.\nNe tardez pas à visiter ce bien rare.",
   "first_seen": "2026-09-22T12:48:51.099482+00:00",
+  "active": true
+ },
+ "https://www.renoiretvaloris.com/vente/appartement-t5-et-plus-5-pieces-nancy-54000,VA4100": {
+  "url": "https://www.renoiretvaloris.com/vente/appartement-t5-et-plus-5-pieces-nancy-54000,VA4100",
+  "title": "À vendre - T5 et plus, 5 pièces situé à Nancy (54000)",
+  "image": "https://img.netty.immo/productcw/renoirvaloris/2/VA4100/appartement-t5-et-plus-5-pieces-nancy-54000-1789683476-VA4100_27_l.jpg",
+  "meta_desc": "Découvrez cet appartement (t5 et plus) de 5 pièces situé à Nancy (54000) disponible en vente.",
+  "price": null,
+  "surface": "130",
+  "terrain": null,
+  "rooms": "5",
+  "bedrooms": "3",
+  "location": "Nancy 54000 - Canal / Rives-de-Meurthe",
+  "reference": "VA4100",
+  "dpe": "C",
+  "description": "À Nancy, entre les Rives-de-Meurthe et l'Hôpital Central découvrez cet appartement de standing comprenant 3 chambres et offrant plus de 110 m² de terrasses et balcon exposés Sud-Ouest avec une vue dégagée, ainsi que 2 stationnements privatifs avec prise de recharge.\nSitué au troisième et dernier étage, avec ascenseur, d'une résidence récente construite en 2024 et ne comptant que 7 lots, il profite d'une entrée avec placard donnant sur une pièce de vie de 43 m² avec cuisine, le tout ouvert sur une première terrasse en accès direct, de près de 96 m².\nLes larges baies vitrées s'ouvrent entièrement sur les extérieurs et donnent une sensation de volume et de luminosité rare : Un nouvel espace de vie se dessine alors, pour recevoir et déjeuner au soleil jusqu'au coucher de soleil.\nL'espace nuit comprend quant à lui, trois chambres dont une suite parentale de 28 m² avec salle de bains, dressing, balcon et terrasse mais aussi deux chambres de 14 m² et 14,8 m², équipées de placards intégrés dont une bénéficie d'un accès extérieur.\nUne seconde salle de bains, un WC indépendant et une buanderie complètent ce bien.\nEn agrément, vous disposez de deux places de parking et d'un cellier en rez-de-chaussée.\nL'appartement est en excellent état et prêt à vivre.",
+  "first_seen": "2026-09-24T12:52:44.879073+00:00",
+  "active": true
+ },
+ "https://www.renoiretvaloris.com/vente/appartement-t5-et-plus-6-pieces-nancy-54000,VA4139": {
+  "url": "https://www.renoiretvaloris.com/vente/appartement-t5-et-plus-6-pieces-nancy-54000,VA4139",
+  "title": "À vendre - T5 et plus, 6 pièces situé à Nancy (54000)",
+  "image": "https://img.netty.immo/productcw/renoirvaloris/2/VA4139/appartement-t5-et-plus-6-pieces-nancy-54000-1790156803-VA4139_15_l.jpg",
+  "meta_desc": "Découvrez cet appartement (t5 et plus) de 6 pièces situé à Nancy (54000) disponible en vente.",
+  "price": "1 378 €",
+  "surface": "115",
+  "terrain": null,
+  "rooms": "6",
+  "bedrooms": "3",
+  "location": "Nancy 54000 - NANCY CENTRE",
+  "reference": "VA4139",
+  "dpe": "D",
+  "description": "À Nancy, à proximité immédiate de la place Stanislas et des commerces, découvrez ce duplex d'environ 115 m² Loi Carrez situé aux derniers étages d’une copropriété intimiste de seulement sept lots.\nTraversant et exposé plein Sud, l’appartement bénéficie d’une belle luminosité tout au long de la journée. Dès l’entrée, la pièce de vie séduit par ses volumes et son parquet aux teintes profondes, apportant une véritable personnalité à l’ensemble. La cuisine, entièrement équipée ainsi qu’une salle d’eau avec WC complètent ce premier niveau.\nÀ l’étage, l’espace nuit se compose de trois chambres spacieuses, d’un espace bureau et d’une salle de bains avec WC. Une distribution adaptée à la vie familiale comme au télétravail.\nLe charme de l’ancien, la luminosité et la situation en plein cœur de Nancy composent un appartement à la fois agréable à vivre et fonctionnel.\nLa copropriété, calme et à taille humaine, comprend seulement sept lots. Le bien bénéficie également d’un fort potentiel locatif au regard de son emplacement et de sa configuration.\nUn duplex de caractère au cœur de Nancy, à quelques minutes à pied de la place Stanislas.\nÀ découvrir sans tarder.",
+  "first_seen": "2026-09-24T12:52:44.879073+00:00",
+  "active": true
+ },
+ "https://www.renoiretvaloris.com/vente/maison-ancienne-14-pieces-rosieres-aux-salines-54110,VM1677": {
+  "url": "https://www.renoiretvaloris.com/vente/maison-ancienne-14-pieces-rosieres-aux-salines-54110,VM1677",
+  "title": "À vendre - Maison ancienne, 14 pièces située à Rosières-aux-Salines (54110)",
+  "image": "https://img.netty.immo/productcw/renoirvaloris/2/VM1677/maison-ancienne-14-pieces-rosieres-aux-salines-54110-1790006554-VM1677_25_l.jpg",
+  "meta_desc": "Découvrez cette maison (ancienne) de 14 pièces située à Rosières-aux-Salines (54110) disponible en vente.",
+  "price": null,
+  "surface": "467",
+  "terrain": null,
+  "rooms": "14",
+  "bedrooms": "10",
+  "location": "Possibilité de renovation",
+  "reference": "VM1677",
+  "dpe": "E",
+  "description": "À l'entrée de Rosières-aux-Salines, dans un lieu rempli d'histoire, venez découvrir cette bâtisse de caractère du XVIII ème siècle proposant 467 m² habitables, plusieurs dépendances et un très beau jardin arboré. L'ensemble de la maison est à rénover mais possède un beau potentiel d'aménagement.\nDès l'entrée, vous apprécierez une jolie cour menant à la maison. Le rez-de-chaussée vous propose un bel espace qui était anciennement dédié à stocker des pièces d'un antiquaire, dans la continuité, un coin buanderie.\nL'étage est quant à lui habité ; Vous y retrouverez de beaux volumes avec plusieurs espaces dédiés : Une pièce de vie confortable, un coin nuit avec plusieurs chambres, une salle d'eau avec WC et un second WC indépendant.\nAu second niveau, des espaces déjà créés et au besoin, une surface généreuse à aménager dans les combles.\nCôté extérieur, cette maison propose un très beau jardin arboré sans vis-à-vis et  entretenu depuis des années par le propriétaire. En supplément, vous retrouverez deux dépendances accolées à la maison pouvant faire office de garage, de rangement ou d'aménagements futurs selon vos envies.\nNous vous invitons à visiter cette demeure d'exception proposant de larges possibilités, autant pour de l'investissement que pour de la résidence principale.",
+  "first_seen": "2026-09-24T12:52:44.879073+00:00",
   "active": true
  }
 }
