@@ -2683,7 +2683,7 @@
   "dpe": "D",
   "description": "À Nancy, Place Carnot, venez découvrir cet appartement de 4 pièces à réinventer offre un cadre de vie confortable.\nDès l'entrée, vous profiterez d'un espace de plus 30 m² pour y faire un salon-séjour lumineux grâce aux grandes ouvertures.\nCôté nuit, vous disposerez de deux chambres spacieuses, une grande salle d'eau et un WC indépendant.\nEn sus de ce bien, vous trouverez un ancien sauna pouvant faire office de cave ou d'espace stockage.\nNe tardez pas à visiter ce bien.",
   "first_seen": "2026-07-23T13:21:10.695611+00:00",
-  "active": true
+  "active": false
  },
  "https://www.renoiretvaloris.com/vente/appartement-t4-4-pieces-nancy-54000,VA3679": {
   "url": "https://www.renoiretvaloris.com/vente/appartement-t4-4-pieces-nancy-54000,VA3679",
@@ -7188,6 +7188,23 @@
   "dpe": "E",
   "description": "À l'entrée de Rosières-aux-Salines, dans un lieu rempli d'histoire, venez découvrir cette bâtisse de caractère du XVIII ème siècle proposant 467 m² habitables, plusieurs dépendances et un très beau jardin arboré. L'ensemble de la maison est à rénover mais possède un beau potentiel d'aménagement.\nDès l'entrée, vous apprécierez une jolie cour menant à la maison. Le rez-de-chaussée vous propose un bel espace qui était anciennement dédié à stocker des pièces d'un antiquaire, dans la continuité, un coin buanderie.\nL'étage est quant à lui habité ; Vous y retrouverez de beaux volumes avec plusieurs espaces dédiés : Une pièce de vie confortable, un coin nuit avec plusieurs chambres, une salle d'eau avec WC et un second WC indépendant.\nAu second niveau, des espaces déjà créés et au besoin, une surface généreuse à aménager dans les combles.\nCôté extérieur, cette maison propose un très beau jardin arboré sans vis-à-vis et  entretenu depuis des années par le propriétaire. En supplément, vous retrouverez deux dépendances accolées à la maison pouvant faire office de garage, de rangement ou d'aménagements futurs selon vos envies.\nNous vous invitons à visiter cette demeure d'exception proposant de larges possibilités, autant pour de l'investissement que pour de la résidence principale.",
   "first_seen": "2026-09-24T12:52:44.879073+00:00",
+  "active": true
+ },
+ "https://www.renoiretvaloris.com/vente/appartement-t5-et-plus-5-pieces-laxou-54520,VA3966": {
+  "url": "https://www.renoiretvaloris.com/vente/appartement-t5-et-plus-5-pieces-laxou-54520,VA3966",
+  "title": "À vendre - T5 et plus, 5 pièces situé à Laxou (54520)",
+  "image": "https://img.netty.immo/productcw/renoirvaloris/2/VA3966/appartement-t5-et-plus-5-pieces-laxou-54520-1790489835-VA3966_2_l.jpg",
+  "meta_desc": "Découvrez cet appartement (t5 et plus) de 5 pièces situé à Laxou (54520) disponible en vente.",
+  "price": "300 000 €",
+  "surface": "111",
+  "terrain": null,
+  "rooms": "5",
+  "bedrooms": "3",
+  "location": "Laxou 54520 - Emile Zola",
+  "reference": "VA3966",
+  "dpe": "C",
+  "description": "À Laxou, Boulevard Émile Zola, à proximité immédiate des commerces et transports et à moins de 500 mètres de Nancy, découvrez cet appartement de 3 chambres, situé au 3e étage avec ascenseur d'une résidence de standing avec piscine construite en 1999,  disposant d'une piscine, d'un garage double, de deux terrasses et d'une cave.\nUne entrée avec placard de rangement s'ouvre sur un vaste espace de vie de près de 40 m², exposé Sud-Ouest, équipé d'une climatisation réversible et offrant un accès direct à une grande terrasse carrelée d'environ 30 m², rénovée en Avril 2026. Celle-ci dispose d'un store banne motorisé et bénéficie d'une belle vue dégagée.\nUne cuisine aménagée et équipée complète cet espace et permet également un accès direct à la terrasse.\nCôté nuit, vous disposerez de trois chambres. La plus grande, d'environ 15 m², bénéficie elle aussi d'un accès à la terrasse côté jardin. Les deux autres chambres, d'environ 9 à 10 m², disposent chacune d'un accès à une seconde terrasse côté rue.\nDeux salles d'eau, deux WC ainsi qu'un grand placard de rangement complètent l'ensemble.\nEn sous-sol, vous profiterez d'un garage double carrelé, équipé d'une prise permettant la recharge d'un véhicule électrique, ainsi que d'une cave saine et bétonnée d'environ 6 m².\nL'appartement bénéficie d'une consommation énergétique maîtrisée, avec notamment un DPE classé C, un chauffage individuel au gaz et une climatisation réversible. Les fenêtres sont toutes en PVC double vitrage et l'ensemble des volets est motorisé.\nQuelques travaux de rafraîchissement permettront de révéler pleinement le potentiel de cet appartement.\nQue vous soyez une famille à la recherche d'un appartement offrant de beaux volumes ou que vous recherchiez un logement permettant une vie de plain-pied, avec la proximité immédiate de toutes les commodités, ce bien mérite votre attention.\nCôté copropriété, elle est parfaitement tenue et aucun travaux majeurs ne sont à prévoir.",
+  "first_seen": "2026-09-29T14:19:24.911147+00:00",
   "active": true
  }
 }
