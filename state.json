@@ -7206,5 +7206,39 @@
   "description": "À Laxou, Boulevard Émile Zola, à proximité immédiate des commerces et transports et à moins de 500 mètres de Nancy, découvrez cet appartement de 3 chambres, situé au 3e étage avec ascenseur d'une résidence de standing avec piscine construite en 1999,  disposant d'une piscine, d'un garage double, de deux terrasses et d'une cave.\nUne entrée avec placard de rangement s'ouvre sur un vaste espace de vie de près de 40 m², exposé Sud-Ouest, équipé d'une climatisation réversible et offrant un accès direct à une grande terrasse carrelée d'environ 30 m², rénovée en Avril 2026. Celle-ci dispose d'un store banne motorisé et bénéficie d'une belle vue dégagée.\nUne cuisine aménagée et équipée complète cet espace et permet également un accès direct à la terrasse.\nCôté nuit, vous disposerez de trois chambres. La plus grande, d'environ 15 m², bénéficie elle aussi d'un accès à la terrasse côté jardin. Les deux autres chambres, d'environ 9 à 10 m², disposent chacune d'un accès à une seconde terrasse côté rue.\nDeux salles d'eau, deux WC ainsi qu'un grand placard de rangement complètent l'ensemble.\nEn sous-sol, vous profiterez d'un garage double carrelé, équipé d'une prise permettant la recharge d'un véhicule électrique, ainsi que d'une cave saine et bétonnée d'environ 6 m².\nL'appartement bénéficie d'une consommation énergétique maîtrisée, avec notamment un DPE classé C, un chauffage individuel au gaz et une climatisation réversible. Les fenêtres sont toutes en PVC double vitrage et l'ensemble des volets est motorisé.\nQuelques travaux de rafraîchissement permettront de révéler pleinement le potentiel de cet appartement.\nQue vous soyez une famille à la recherche d'un appartement offrant de beaux volumes ou que vous recherchiez un logement permettant une vie de plain-pied, avec la proximité immédiate de toutes les commodités, ce bien mérite votre attention.\nCôté copropriété, elle est parfaitement tenue et aucun travaux majeurs ne sont à prévoir.",
   "first_seen": "2026-09-29T14:19:24.911147+00:00",
   "active": true
+ },
+ "https://www.renoiretvaloris.com/vente/appartement-t5-et-plus-5-pieces-nancy-54000,VA4152": {
+  "url": "https://www.renoiretvaloris.com/vente/appartement-t5-et-plus-5-pieces-nancy-54000,VA4152",
+  "title": "À vendre - T5 et plus, 5 pièces situé à Nancy (54000)",
+  "image": "https://img.netty.immo/productcw/renoirvaloris/2/VA4152/appartement-t5-et-plus-5-pieces-nancy-54000-1790605630-VA4152_33_l.jpg",
+  "meta_desc": "Découvrez cet appartement (t5 et plus) de 5 pièces situé à Nancy (54000) disponible en vente.",
+  "price": "4 278 €",
+  "surface": "115",
+  "terrain": null,
+  "rooms": "5",
+  "bedrooms": "3",
+  "location": "Nancy 54000 - Vieille-ville",
+  "reference": "VA4152",
+  "dpe": "D",
+  "description": "Dans la vieille ville de Nancy, découvrez cet appartement de grand standing de 115 m², comprenant trois chambres et un stationnement privatif. Il se situe au premier étage de l’Hôtel de Ludre, hôtel particulier du XVIIIe siècle édifié pour la famille de Custine entre 1713 et 1715, dont la façade est inscrite au titre des monuments historiques.\nCe bien rare a bénéficié d’une réhabilitation complète en 2015, sous la direction de la décoratrice d’intérieur Nicole Lothe.\nSa vaste pièce de vie traversante profite d’une belle lumière et d’une vue sur un cadre verdoyant. Elle s’ouvre sur un balcon de près de 10 m². La cuisine offre un beau volume et dispose d’un cellier avec aménagement buanderie.\nL’espace nuit se compose de trois chambres, d’une salle d’eau dotée de nombreux rangements et de toilettes indépendantes.\nVous apprécierez également sa place de stationnement privative dans une cour sécurisée, ainsi que sa cave.",
+  "first_seen": "2026-09-30T14:13:06.986501+00:00",
+  "active": true
+ },
+ "https://www.renoiretvaloris.com/vente/maison-ancienne-5-pieces-malzeville-54220,VM1731": {
+  "url": "https://www.renoiretvaloris.com/vente/maison-ancienne-5-pieces-malzeville-54220,VM1731",
+  "title": "À vendre - Maison ancienne, 5 pièces située à Malzéville (54220)",
+  "image": "https://img.netty.immo/productcw/renoirvaloris/2/VM1731/maison-ancienne-5-pieces-malzeville-54220-1790679482-VM1731_50_l.jpg",
+  "meta_desc": "Découvrez cette maison (ancienne) de 5 pièces située à Malzéville (54220) disponible en vente.",
+  "price": null,
+  "surface": "117",
+  "terrain": "616",
+  "rooms": "5",
+  "bedrooms": "4",
+  "location": "Malzéville 54220",
+  "reference": "VM1731",
+  "dpe": "D",
+  "description": "A Malzeville, découvrez cette charmante maison de 4 chambres avec garage où vous apprécierez les beaux volumes ainsi que la luminosité de la pièce de vie, idéalement exposée et offrant un espace convivial pour recevoir et partager des moments en famille.\nVous profiterez d'un jardin agréable, véritable prolongement de la maison, idéal pour les repas en extérieur et les moments de détente.\nUn grand garage complète ce bien et permet de stationner un véhicule tout en conservant un espace supplémentaire pour les motos, vélos et équipements.\nCôté emplacement, vous bénéficierez d'un environnement résidentiel agréable, à proximité immédiate des commodités et proche du centre ville de Nancy.\nNous vous invitons à découvrir cette maison sans plus tarder.",
+  "first_seen": "2026-09-30T14:13:06.986501+00:00",
+  "active": true
  }
 }
