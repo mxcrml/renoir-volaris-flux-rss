@@ -1969,7 +1969,7 @@
   "dpe": "E",
   "description": "À Nancy, à quelques minutes à pied de l'hypercentre et de la gare, dans un environnement offrant un accès immédiat aux transports, commerces, écoles et principaux axes routiers, découvrez cet appartement traversant situé au dernier étage avec ascenseur d'une résidence sécurisée et parfaitement entretenue. Il propose deux chambres, un balcon avec vue dégagée, une cave ainsi qu'une place de stationnement privative disponible en supplément.\nL'entrée, équipée d'un placard, dessert l'ensemble de l'appartement. Côté séjour, vous profiterez d'une pièce de vie lumineuse ouvrant sur un balcon bénéficiant d'une vue dégagée. Une première chambre, actuellement ouverte sur le séjour, pourra facilement être recréée grâce à une simple cloison afin de retrouver une configuration indépendante.\nDe l'autre côté de l'appartement, vous trouverez une cuisine indépendante à réaménager selon vos envies, une seconde chambre, une salle de bains de belle dimension ainsi qu'un WC indépendant.\nL'appartement nécessite un rafraîchissement général, mais son agencement fonctionnel et ses volumes offrent une excellente base pour un projet de rénovation. Son emplacement, son dernier étage avec ascenseur et sa luminosité en font un bien particulièrement attractif, aussi bien pour une résidence principale que pour un investissement.\nEn annexe, une cave complète le bien.\nUne place de stationnement privative en extérieur, équipée d'une borne de recharge pour véhicule électrique, est disponible en supplément au prix de 15 000 €.\nClasse énergétique E : logement en consommation excessive.",
   "first_seen": "2026-07-23T13:21:10.695611+00:00",
-  "active": true
+  "active": false
  },
  "https://www.renoiretvaloris.com/vente/appartement-t3-3-pieces-nancy-54000,VA3915": {
   "url": "https://www.renoiretvaloris.com/vente/appartement-t3-3-pieces-nancy-54000,VA3915",
@@ -2615,7 +2615,7 @@
   "dpe": "C",
   "description": "En plein centre-ville et profitant du calme de la Cour des Arts, à proximité de toutes les commodités et transports, découvrez cet appartement de 2 chambres, récemment rénové avec possibilité de garage double en sous-sol.\nL'entrée avec placard, donne accès à un vaste salon-séjour de 37 m², avec cuisine attenante, entièrement équipée.\nCôté nuit, deux chambres, donc une avec un grand dressing, profitent d'une vaste salle de bains avec baignoire, douche et placard. Un WC indépendant et un espace buanderie / cellier complète ce bien rare.\nPour le confort du quotidien, un garage double en sous-sol, avec éléctricité, est proposé en sus pour 33.000 € FAI.",
   "first_seen": "2026-07-23T13:21:10.695611+00:00",
-  "active": true
+  "active": false
  },
  "https://www.renoiretvaloris.com/vente/appartement-t4-4-pieces-nancy-54000,VA3501": {
   "url": "https://www.renoiretvaloris.com/vente/appartement-t4-4-pieces-nancy-54000,VA3501",
@@ -5607,7 +5607,7 @@
   "dpe": "C",
   "description": "A Liverdun, sur les bords de Moselle, découvrez cette élégante maison d'architecte de 4 chambres, un grand bureau, garage double, offrant une luminosité exceptionnelle.\nElle se distingue par une pièce de vie de 80 m², ouverte sur une cuisine et sa terrasse donnant sur le jardin arboré avec accès direct à la Moselle, grâce à un ponton existant pour une barque ou un petit bateau.\nLa maison comprend quatre belles chambres, un grand bureau, un cellier, une salle de bain et une salle d’eau, ainsi que deux places de parking intérieures et deux extérieures.\nCette demeure rare allie confort, espace et sérénité.",
   "first_seen": "2026-07-23T13:21:10.695611+00:00",
-  "active": true
+  "active": false
  },
  "https://www.renoiretvaloris.com/vente/maison-individuelle-10-pieces-saint-etienne-les-remiremont-88200,VM1631": {
   "url": "https://www.renoiretvaloris.com/vente/maison-individuelle-10-pieces-saint-etienne-les-remiremont-88200,VM1631",
@@ -7239,6 +7239,40 @@
   "dpe": "D",
   "description": "A Malzeville, découvrez cette charmante maison de 4 chambres avec garage où vous apprécierez les beaux volumes ainsi que la luminosité de la pièce de vie, idéalement exposée et offrant un espace convivial pour recevoir et partager des moments en famille.\nVous profiterez d'un jardin agréable, véritable prolongement de la maison, idéal pour les repas en extérieur et les moments de détente.\nUn grand garage complète ce bien et permet de stationner un véhicule tout en conservant un espace supplémentaire pour les motos, vélos et équipements.\nCôté emplacement, vous bénéficierez d'un environnement résidentiel agréable, à proximité immédiate des commodités et proche du centre ville de Nancy.\nNous vous invitons à découvrir cette maison sans plus tarder.",
   "first_seen": "2026-09-30T14:13:06.986501+00:00",
+  "active": true
+ },
+ "https://www.renoiretvaloris.com/vente/appartement-t5-et-plus-6-pieces-nancy-54000,VA4091": {
+  "url": "https://www.renoiretvaloris.com/vente/appartement-t5-et-plus-6-pieces-nancy-54000,VA4091",
+  "title": "À vendre - T5 et plus, 6 pièces situé à Nancy (54000)",
+  "image": "https://img.netty.immo/productcw/renoirvaloris/2/VA4091/appartement-t5-et-plus-6-pieces-nancy-54000-1790083885-VA4091_23_l.jpg",
+  "meta_desc": "Découvrez cet appartement (t5 et plus) de 6 pièces situé à Nancy (54000) disponible en vente.",
+  "price": "1 992 €",
+  "surface": "200",
+  "terrain": null,
+  "rooms": "6",
+  "bedrooms": "3",
+  "location": "Copropriété de beau standing",
+  "reference": "VA4091",
+  "dpe": "E",
+  "description": "À Nancy, dans un secteur très recherché pour sa proximité directe de la Porte Désilles / Cours Leopold, venez découvrir ce charmant appartement familial, situé au deuxième étage d'une copropriété de standing.\nDès l'entrée, vous apprécierez de beaux volumes avec une hauteur sous plafond spectaculaire de plus de 3 mètres. Vous profiterez d'un triple salon-séjour en enfilade représentant plus de 75 m² de charme et baignée de lumière. Dans la continuité, vous trouverez une cuisine indépendante et un espace buanderie bien pensé.\nCôté nuit, vous trouverez deux premières chambres à la taille généreuse bénéficiant d'une salle d'eau rénovée en 2023 ainsi qu'un WC indépendant.\nEn bonus, une suite parentale profitant d'une jolie salle de bains et un second WC indépendant pour compléter l'ensemble.\nDeux caves et une mansarde sont également comprises avec l'appartement. La possibilité de récupérer un bail de stationnement dans une résidence voisine vous est également proposée.\nL'appartement est en excellent état, décoré avec goût. Nous vous invitons à le visiter sans plus tarder.",
+  "first_seen": "2026-10-01T14:44:57.621349+00:00",
+  "active": true
+ },
+ "https://www.renoiretvaloris.com/vente/maison-8-pieces-nancy-54000,VM1756": {
+  "url": "https://www.renoiretvaloris.com/vente/maison-8-pieces-nancy-54000,VM1756",
+  "title": "À vendre - Maison, 8 pièces située à Nancy (54000)",
+  "image": "https://img.netty.immo/productcw/renoirvaloris/2/VM1756/maison-8-pieces-nancy-54000-1790715124-VM1756_18_l.jpg",
+  "meta_desc": "Découvrez cette maison de 8 pièces située à Nancy (54000) disponible en vente.",
+  "price": null,
+  "surface": "188",
+  "terrain": "330",
+  "rooms": "8",
+  "bedrooms": "5",
+  "location": "Nancy 54000 - Isabey",
+  "reference": "VM1756",
+  "dpe": "D",
+  "description": "À Nancy, découvrez cette belle maison familiale, située dans le secteur recherché d'Isabey, offrant de beaux volumes, une distribution particulièrement confortable et un agréable extérieur à l'abri des regards.\nDès le rez-de-chaussée, l'entrée dessert un beau séjour traversant Est / Ouest, bénéficiant d'une belle luminosité tout au long de la journée. La cuisine équipée, récemment renouvelée il y a deux ans, s'intègre parfaitement à l'espace de vie. Un bureau complète ce niveau, idéal pour le télétravail ou pouvant également être aménagé selon les besoins de la famille.\nLe rez-de-chaussée bénéficie d'un accès direct à une terrasse intimiste, véritable prolongement des espaces de vie. Celle-ci mène ensuite, à un niveau inférieur, à un grand jardin offrant un cadre particulièrement agréable et préservé. Ce dernier dispose par ailleurs d'une installation complète permettant d'accueillir une piscine, offrant ainsi un très beau potentiel pour créer un véritable espace extérieur dédié aux beaux jours.\nÀ l'étage, la maison propose trois chambres, chacune bénéficiant de sa propre salle d'eau attenante. Une configuration particulièrement appréciable qui offre confort et intimité à chaque occupant. Des WC indépendants complètent également ce niveau.\nLe deuxième étage poursuit cette belle distribution avec plusieurs chambres, dont une remarquable pièce de plus de 40 m² accompagnée de sa propre salle de bains. Un volume généreux qui pourra facilement être imaginé en suite parentale, salle de jeux, espace familial ou chambre supplémentaire selon les envies.\nChaque niveau de la maison dispose de WC, avec notamment des WC indépendants au rez-de-chaussée et au premier étage.\nEnfin, le sous-sol accueille une cave avec un espace buanderie ainsi qu'un atelier, offrant de nombreuses possibilités de rangement et de stockage.\nRénovée en 2000 et depuis soigneusement entretenue, cette maison bénéficie d'une installation de chauffage au gaz et d'une construction offrant de beaux volumes sur l'ensemble de ses niveaux.\nPar sa configuration, ses nombreuses chambres et pièces d'eau, ses espaces de vie généreux et son jardin intimiste avec possibilité d'installation d'une piscine, cette maison constitue une adresse particulièrement adaptée à une vie de famille à Nancy.\nUn bien aux volumes rares et au potentiel certain, à découvrir sans tarder.",
+  "first_seen": "2026-10-01T14:44:57.621349+00:00",
   "active": true
  }
 }
