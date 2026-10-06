@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Mon, 05 Oct 2026 16:21:22 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 14:26:33 +0000</lastBuildDate>
     <item>
       <title>288 m² — Nancy 54000</title>
       <link>https://www.renoiretvaloris.com/vente/stationnement-parking-10-places-nancy-54000,VS038</link>
@@ -256,17 +256,6 @@ Nous vous invitons à le visiter sans plus tarder.</description>
       <guid isPermaLink="false">https://www.renoiretvaloris.com/vente/appartement-t5-et-plus-8-pieces-nancy-54000,VA4085</guid>
       <enclosure url="https://img.netty.immo/productcw/renoirvaloris/2/VA4085/appartement-t5-et-plus-8-pieces-nancy-54000-1788469631-VA4085_24_l.jpg" length="0" type="image/jpeg"/>
       <pubDate>Sat, 05 Sep 2026 11:22:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>11 m² — Nancy 54000</title>
-      <link>https://www.renoiretvaloris.com/vente/appartement-t1-1-piece-nancy-54000,VA4126</link>
-      <description>&lt;img src="https://img.netty.immo/productcw/renoirvaloris/2/VA4126/appartement-t1-1-piece-nancy-54000-1788260965-VA4126_4_l.jpg" width="400"/&gt;&lt;br/&gt;&lt;b&gt;À vendre - T1, 1 pièce situé à Nancy (54000)&lt;/b&gt;&lt;br/&gt;Surface : 11 m² • Pièces : 1 • Localisation : Nancy 54000 • DPE : D • Réf. VA4126&lt;br/&gt;&lt;br/&gt;À Nancy, à deux pas du parc Sainte-Marie et à proximité immédiate des transports en commun, des écoles et des commodités, découvrez cet appartement rénové situé au troisième et dernier étage d'une petite copropriété.
-Loyer potentiel 425 € par mois charges comprises.
-Prêt à être mis en location, ce studio constitue une opportunité idéale pour un investissement locatif. Son agencement fonctionnel se compose d'une pièce de vie principale ainsi que d'une salle d'eau moderne avec douche à l'italienne et WC.
-Un appartement clé en main, sans travaux à prévoir, dans un secteur recherché de Nancy.</description>
-      <guid isPermaLink="false">https://www.renoiretvaloris.com/vente/appartement-t1-1-piece-nancy-54000,VA4126</guid>
-      <enclosure url="https://img.netty.immo/productcw/renoirvaloris/2/VA4126/appartement-t1-1-piece-nancy-54000-1788260965-VA4126_4_l.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 04 Sep 2026 12:15:13 +0000</pubDate>
     </item>
     <item>
       <title>151 m² — Construction récente</title>
@@ -644,6 +633,18 @@ L'espace nuit, lui aussi baigné de lumière grâce à sa grande verrière, prop
 La cheminée centrale, la structure métallique, les baies vitrées, les verrières et les volumes donnent un caractère unique à ce bien d'exception situé dans une copropriété bien entretenue dans un environnement calme à quelques pas de la gare et centre-ville.</description>
       <guid isPermaLink="false">https://www.renoiretvaloris.com/vente/appartement-duplex-4-pieces-nancy-54000,VA3604</guid>
       <enclosure url="https://img.netty.immo/productcw/renoirvaloris/2/VA3604/appartement-duplex-4-pieces-nancy-54000-1760886234-VA3604_14_l.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 23 Jul 2026 13:21:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>141 m² — Nancy 54000 - Isabey</title>
+      <link>https://www.renoiretvaloris.com/vente/appartement-duplex-5-pieces-nancy-54000,VA2184</link>
+      <description>&lt;img src="https://img.netty.immo/productcw/renoirvaloris/2/VA2184/appartement-duplex-5-pieces-nancy-54000-1630139039-VA2184_7_l.jpg" width="400"/&gt;&lt;br/&gt;&lt;b&gt;À vendre - Duplex, 5 pièces situé à Nancy (54000)&lt;/b&gt;&lt;br/&gt;Surface : 141 m² • Pièces : 5 • Chambres : 2 • Localisation : Nancy 54000 - Isabey • Réf. VA2184&lt;br/&gt;&lt;br/&gt;Dans un quartier calme et recherché, à quelques minutes du centre-ville de Nancy, de la Gare et des axes autoroutiers, un appartement de caractère de 141 m² au sol et 92 m² Carrez entièrement rénové en 2010, avec de nombreux rangements, au 4ème et dernier étage d’une petite copropriété sans ascenseur.
+L'entrée nous plonge immédiatement dans l’univers de ce duplex grâce à la légèreté de son escalier Eiffel et aux grands volumes de sa salle à manger avec cuisine ouverte, bénéficiant d’un îlot centrale.
+Ce premier niveau est complété par un WC indépendant et un espace buanderie.
+À l’étage, sous comble avec une belle hauteur, un vaste salon distribue 2 chambres et une salle de bain à l’architecture unique avec douche et baignoire, ainsi qu’un dressing.
+Viendra s’ajouter à ce bien d’exception, un cave privative et un local à vélo.</description>
+      <guid isPermaLink="false">https://www.renoiretvaloris.com/vente/appartement-duplex-5-pieces-nancy-54000,VA2184</guid>
+      <enclosure url="https://img.netty.immo/productcw/renoirvaloris/2/VA2184/appartement-duplex-5-pieces-nancy-54000-1630139039-VA2184_7_l.jpg" length="0" type="image/jpeg"/>
       <pubDate>Thu, 23 Jul 2026 13:21:10 +0000</pubDate>
     </item>
   </channel>

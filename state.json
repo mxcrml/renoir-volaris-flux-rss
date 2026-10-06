@@ -1969,7 +1969,7 @@
   "dpe": "E",
   "description": "À Nancy, à quelques minutes à pied de l'hypercentre et de la gare, dans un environnement offrant un accès immédiat aux transports, commerces, écoles et principaux axes routiers, découvrez cet appartement traversant situé au dernier étage avec ascenseur d'une résidence sécurisée et parfaitement entretenue. Il propose deux chambres, un balcon avec vue dégagée, une cave ainsi qu'une place de stationnement privative disponible en supplément.\nL'entrée, équipée d'un placard, dessert l'ensemble de l'appartement. Côté séjour, vous profiterez d'une pièce de vie lumineuse ouvrant sur un balcon bénéficiant d'une vue dégagée. Une première chambre, actuellement ouverte sur le séjour, pourra facilement être recréée grâce à une simple cloison afin de retrouver une configuration indépendante.\nDe l'autre côté de l'appartement, vous trouverez une cuisine indépendante à réaménager selon vos envies, une seconde chambre, une salle de bains de belle dimension ainsi qu'un WC indépendant.\nL'appartement nécessite un rafraîchissement général, mais son agencement fonctionnel et ses volumes offrent une excellente base pour un projet de rénovation. Son emplacement, son dernier étage avec ascenseur et sa luminosité en font un bien particulièrement attractif, aussi bien pour une résidence principale que pour un investissement.\nEn annexe, une cave complète le bien.\nUne place de stationnement privative en extérieur, équipée d'une borne de recharge pour véhicule électrique, est disponible en supplément au prix de 15 000 €.\nClasse énergétique E : logement en consommation excessive.",
   "first_seen": "2026-07-23T13:21:10.695611+00:00",
-  "active": false
+  "active": true
  },
  "https://www.renoiretvaloris.com/vente/appartement-t3-3-pieces-nancy-54000,VA3915": {
   "url": "https://www.renoiretvaloris.com/vente/appartement-t3-3-pieces-nancy-54000,VA3915",
@@ -6933,7 +6933,7 @@
   "dpe": "D",
   "description": "À Nancy, à deux pas du parc Sainte-Marie et à proximité immédiate des transports en commun, des écoles et des commodités, découvrez cet appartement rénové situé au troisième et dernier étage d'une petite copropriété.\nLoyer potentiel 425 € par mois charges comprises.\nPrêt à être mis en location, ce studio constitue une opportunité idéale pour un investissement locatif. Son agencement fonctionnel se compose d'une pièce de vie principale ainsi que d'une salle d'eau moderne avec douche à l'italienne et WC.\nUn appartement clé en main, sans travaux à prévoir, dans un secteur recherché de Nancy.",
   "first_seen": "2026-09-04T12:15:13.209583+00:00",
-  "active": true
+  "active": false
  },
  "https://www.renoiretvaloris.com/vente/maison-individuelle-6-pieces-laneuveville-devant-nancy-54410,VM1729": {
   "url": "https://www.renoiretvaloris.com/vente/maison-individuelle-6-pieces-laneuveville-devant-nancy-54410,VM1729",
