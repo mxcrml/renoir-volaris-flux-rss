@@ -5930,7 +5930,7 @@
   "dpe": "C",
   "description": "À Heillecourt, à deux pas du Vieux Village et en lisière du parc de l'Embanie, dans le secteur recherché de la Tournelle, découvrez cette maison individuelle entièrement rénovée, implantée sur une parcelle de plus de 2 100 m² avec jardin paysager, véritable écrin de verdure sans aucun vis-à-vis, accueille une piscine chauffée, une dépendance et de nombreux espaces de détente. La maison développe environ 170 m² habitables, complétés par un sous-sol avec garage double en enfilade.\nCette propriété a bénéficié d'une rénovation importante comprenant notamment la réfection complète de la toiture, l'isolation thermique par l'extérieur et l'installation des climatisations. Les menuiseries sont en double vitrage avec volets roulants électriques offrant confort et performance énergétique.\nDès l'entrée, un vaste hall distribue harmonieusement les pièces, vous découvrirez une cuisine entièrement aménagée et équipée, avec îlot central et plan de travail en pierre. En face, un généreux séjour avec cheminée à insert bois se prolonge par une véranda de plus de 30 m², offrant un véritable second salon baigné de lumière avec une vue privilégiée sur le jardin.\nToujours de plain-pied, la maison propose trois chambres, une salle d'eau contemporaine, une seconde salle d'eau ainsi qu'un WC indépendant, offrant un confort idéal pour une vie de famille.\nÀ l'étage, une suite parentale de plus de 35 m² comprend un espace nuit, un coin bureau, de nombreux rangements intégrés, un espace baignoire ainsi qu'un WC indépendant. Un grenier attenant offre un beau potentiel d'aménagement en dressing ou espace de rangement supplémentaire.\nLe sous-sol entièrement carrelé accueille une vaste cave, une grande buanderie, un atelier, plusieurs espaces de stockage ainsi qu'un garage double en enfilade.\nÀ l'extérieur, une grande terrasse avec spa précède la piscine chauffée et couverte, permettant d'en profiter une grande partie de l'année. Un chalet indépendant d'environ 16 m² avec mezzanine, entièrement chauffé, complète les prestations de cette propriété et pourra accueillir un bureau, un atelier ou un espace indépendant selon vos envies.\nUne propriété rare sur le secteur, offrant un cadre de vie exceptionnel, des prestations de qualité et un environnement privilégié à quelques minutes seulement du centre de Nancy et du CHU de Brabois.",
   "first_seen": "2026-07-23T13:21:10.695611+00:00",
-  "active": true
+  "active": false
  },
  "https://www.renoiretvaloris.com/vente/maison-individuelle-7-pieces-houdemont-54180,VM1077": {
   "url": "https://www.renoiretvaloris.com/vente/maison-individuelle-7-pieces-houdemont-54180,VM1077",
@@ -7291,5 +7291,39 @@
   "description": "Renoir & Valoris vous propose à la vente un ensemble de 10 places de stationnement aériennes, idéalement situé à proximité immédiate de la place Carnot, en plein cœur de Nancy.\nLes emplacements sont regroupés au sein d’un parking privé dont l’accès est sécurisé par un portail.\nUn ensemble rare dans ce secteur central de Nancy, aussi bien pour un investissement locatif que pour répondre à des besoins de stationnement professionnels.",
   "first_seen": "2026-10-03T12:42:26.891206+00:00",
   "active": false
+ },
+ "https://www.renoiretvaloris.com/vente/appartement-t1-2-1-piece-nancy-54000,VA4049": {
+  "url": "https://www.renoiretvaloris.com/vente/appartement-t1-2-1-piece-nancy-54000,VA4049",
+  "title": "À vendre - T1/2, 1 pièce situé à Nancy (54000)",
+  "image": "https://img.netty.immo/productcw/renoirvaloris/2/VA4049/appartement-t1-2-1-piece-nancy-54000-1791272143-VA4049_10_l.jpg",
+  "meta_desc": "Découvrez cet appartement (t1/2) de 1 pièce situé à Nancy (54000) disponible en vente.",
+  "price": null,
+  "surface": "29",
+  "terrain": null,
+  "rooms": "1",
+  "bedrooms": "1",
+  "location": "Nancy 54000 - Stanislas - St George",
+  "reference": "VA4049",
+  "dpe": "E",
+  "description": "À Nancy, dans un secteur recherché du centre-ville, à deux minutes à pied de la place Stanislas et d’un arrêt de tram, découvrez ce charmant T1 bis situé au quatrième et dernier étage d’un bel immeuble en pierre.\nLa copropriété séduit par son cachet et son authenticité. Les parties communes ont conservé tout le caractère de l’ancien notamment à travers une magnifique cage d’escalier en pierre qui contribue pleinement à l’identité de l’immeuble.\nAu dernier étage, le logement bénéficie d’une atmosphère particulièrement agréable et intimiste. En très bon état général, il ne nécessite aucun travaux et offre une distribution parfaitement optimisée.\nL’espace de vie se compose d’un séjour accueillant avec une cuisine équipée formant un ensemble convivial et fonctionnel. Un véritable espace nuit, distinct de la pièce de vie, est également aménagé et se prolonge par une salle d’eau.\nPar sa configuration, son excellent état et sa situation au sein d’une copropriété de caractère, ce T1 bis se prête aussi bien à un premier achat qu’à un projet d’investissement locatif.\nUn bien au caractère affirmé, alliant le cachet de l’ancien à une configuration fonctionnelle et au confort d’une installation immédiate.\nÀ découvrir sans tarder.",
+  "first_seen": "2026-10-09T14:37:51.764282+00:00",
+  "active": true
+ },
+ "https://www.renoiretvaloris.com/vente/maison-7-pieces-dombasle-sur-meurthe-54110,VM1735": {
+  "url": "https://www.renoiretvaloris.com/vente/maison-7-pieces-dombasle-sur-meurthe-54110,VM1735",
+  "title": "À vendre - Maison, 7 pièces située à Dombasle-sur-Meurthe (54110)",
+  "image": "https://img.netty.immo/productcw/renoirvaloris/2/VM1735/maison-7-pieces-dombasle-sur-meurthe-54110-1791288916-VM1735_10_l.jpg",
+  "meta_desc": "Découvrez cette maison de 7 pièces située à Dombasle-sur-Meurthe (54110) disponible en vente.",
+  "price": "400 000 €",
+  "surface": "212",
+  "terrain": null,
+  "rooms": "7",
+  "bedrooms": "5",
+  "location": "Dombasle-sur-Meurthe 54110 - Champs Fleuris",
+  "reference": "VM1735",
+  "dpe": "D",
+  "description": "À Dombasle-sur-Meurthe, découvrez cette belle maison familiale développant environ 200 m² habitables, implantée sur un remarquable terrain de plus de 2 600 m² et offrant de beaux volumes ainsi qu'un potentiel particulièrement intéressant.\nDès le rez-de-chaussée, l'entrée dessert une vaste pièce de vie de 52 m² réunissant salon, séjour et cuisine ouverte. Un espace généreux et convivial, idéal pour partager les moments du quotidien en famille ou recevoir ses proches.\nCe niveau dispose également de deux chambres, d'un bureau, d'une salle de bains et de WC indépendants. Une configuration particulièrement fonctionnelle permettant de profiter d'un véritable espace de vie familial. Un garage complète ce rez-de-chaussée.\nÀ l'étage, la maison propose actuellement deux grands espaces, aménagés en une chambre et une salle de jeux. Ces volumes offrent toutefois de nombreuses possibilités de réaménagement et peuvent facilement être redistribués afin de créer plusieurs chambres supplémentaires selon les besoins. La chambre bénéficie par ailleurs de sa propre salle d'eau attenante.\nLe sous-sol accueille quant à lui une grande cave, offrant un espace de rangement appréciable et venant compléter les nombreuses possibilités offertes par la maison.\nÀ l'extérieur, la propriété bénéficie surtout d'un terrain de plus de 2 600 m² offrant un cadre particulièrement agréable et de nombreuses possibilités. Selon les règles d'urbanisme applicables, une partie du terrain présente un potentiel de division et de construction, ouvrant ainsi la porte à différents projets tel qu'un agrandissement, une création d'une seconde habitation ou une valorisation foncière.\nAvec ses beaux volumes, sa configuration familiale, ses possibilités d'aménagement et surtout son vaste terrain, cette propriété constitue une opportunité rare sur le secteur.\nUne maison offrant à la fois espace, potentiel et perspectives d'évolution, à découvrir sans tarder à Dombasle-sur-Meurthe.",
+  "first_seen": "2026-10-09T14:37:51.764282+00:00",
+  "active": true
  }
 }
