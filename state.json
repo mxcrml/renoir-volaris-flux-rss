@@ -320,7 +320,7 @@
   "dpe": "D",
   "description": "À quelques minutes à pied de la Gare de Nancy, dans un quartier recherché pour sa proximité avec le cœur de ville, dans un clos privé en second corps de bâtiment, découvrez cet appartement / maison au caractère industriel avec terrasse et parking privatif.\nL'étage de vie se compose d'une sublime pièce de vie ornée de poutrelles d'acier et baignée de lumière par de très vastes baies vitrées ainsi qu'une cuisine américaine avec électroménager haut-de-gamme en accès direct sur la terrasse.\nL'espace nuit, lui aussi baigné de lumière grâce à sa grande verrière, propose deux grandes chambres avec dressing, une salle d'eau et des toilettes indépendantes.\nLa cheminée centrale, la structure métallique, les baies vitrées, les verrières et les volumes donnent un caractère unique à ce bien d'exception situé dans une copropriété bien entretenue dans un environnement calme à quelques pas de la gare et centre-ville.",
   "first_seen": "2026-07-23T13:21:10.695611+00:00",
-  "active": true
+  "active": false
  },
  "https://www.renoiretvaloris.com/vente/appartement-duplex-5-pieces-nancy-54000,VA2184": {
   "url": "https://www.renoiretvaloris.com/vente/appartement-duplex-5-pieces-nancy-54000,VA2184",
@@ -7341,6 +7341,23 @@
   "dpe": "D",
   "description": "À Nancy, à quelques minutes à pied de la place Stanislas et de la Pépinière, découvrez ce superbe appartement de 3 chambres, avec terrasse privative et stationnement équipé d’une borne de recharge.\nSitué dans l’ancienne école primaire des Grands Moulins, entièrement réhabilitée en 2020, il conserve tout son caractère d’origine, sublimé par des aménagements et des équipements modernes.\nVous apprécierez immédiatement la luminosité de cet appartement unique et traversant, dont la pièce de vie de plus de 50 m² s’ouvre de plain-pied sur une terrasse de près de 27 m², parfaite pour les moments en famille ou entre amis.\nL’espace nuit propose 3 chambres spacieuses, un dressing ainsi qu’une salle de bains avec baignoire et douche.\nPour le confort du quotidien, une buanderie faisant également office de cellier complète ce bien rare, auquel s’ajoutent deux grandes caves et une place de parking en sous-sol, équipée d’une borne de recharge pour véhicules électriques.",
   "first_seen": "2026-10-10T13:57:26.435089+00:00",
+  "active": true
+ },
+ "https://www.renoiretvaloris.com/vente/appartement-t3-3-pieces-laxou-54520,VA4177": {
+  "url": "https://www.renoiretvaloris.com/vente/appartement-t3-3-pieces-laxou-54520,VA4177",
+  "title": "À vendre - T3, 3 pièces situé à Laxou (54520)",
+  "image": "https://img.netty.immo/productcw/renoirvaloris/2/VA4177/appartement-t3-3-pieces-laxou-54520-1791561452-VA4177_7_l.jpg",
+  "meta_desc": "Découvrez cet appartement (t3) de 3 pièces situé à Laxou (54520) disponible en vente.",
+  "price": "1 260 €",
+  "surface": "65",
+  "terrain": null,
+  "rooms": "3",
+  "bedrooms": "2",
+  "location": "Laxou 54520 - Mairie",
+  "reference": "VA4177",
+  "dpe": "C",
+  "description": "À Laxou, secteur Mairie, à proximité immédiate des transports, écoles, commerces et de toutes les commodités, venez découvrir ce bel appartement d'environ 65 m², comprenant trois pièces, deux chambres, situé au premier étage avec ascenseur d'une résidence de standing construite en 1999.\nUne entrée s'ouvre sur un vaste espace de vie d'environ 33 m², composé d'une cuisine aménagée et équipée, remplacée en 2021, ainsi que d'un agréable espace salon-salle à manger.\nL'ensemble se prolonge par une grande terrasse d'environ 12 m² exposée plein sud, idéale pour profiter des beaux jours.\nCôté nuit, vous disposerez de deux chambres, dont une avec placard, d'une salle d'eau avec douche, de WC indépendants ainsi que d'un grand placard de rangement.\nPour le stationnement, un garage fermé en sous-sol est vendu avec l'appartement.\nVous bénéficierez également d'une cave d'environ 5 m², pour entreposer vos affaires.\nPour votre confort, l'appartement bénéficie d'un chauffage individuel au gaz, de fenêtres en PVC double vitrage, d'une isolation par l'intérieur ainsi que de volets roulants sur l'ensemble des fenêtres. Ces équipements contribuent à une bonne performance énergétique, avec un DPE classé C et une consommation d'énergie maîtrisée.\nUne visite virtuelle est disponible sur demande afin de vous permettre de mieux apprécier les volumes et l'agencement du bien.\nÀ visiter sans tarder.",
+  "first_seen": "2026-10-14T13:03:30.477754+00:00",
   "active": true
  }
 }
