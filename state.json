@@ -1102,7 +1102,7 @@
   "dpe": "E",
   "description": "Sur la commune de Nancy, dans un secteur très recherché entre la Rue de Mon désert et la Place de la Commanderie, venez découvrir cet appartement récemment rénové de deux pièces, au premier étage d'une copropriété de caractère datant de 1910.\nLe bien se compose d'une cuisine ouverte sur séjour et bénéficie d'une bonne exposition Sud-Ouest. Le charme de la pièce à vivre est perceptible par la cheminée ainsi que la hauteur sous plafond.\nCôté nuit, vous profiterez d'une agréable chambre ainsi que d'une salle de bains.\nNous vous invitons à visiter cet appartement sans plus tarder.\nClasse énergétique E : logement en consommation excessive.",
   "first_seen": "2026-07-23T13:21:10.695611+00:00",
-  "active": true
+  "active": false
  },
  "https://www.renoiretvaloris.com/vente/appartement-t2-2-pieces-nancy-54000,VA3937": {
   "url": "https://www.renoiretvaloris.com/vente/appartement-t2-2-pieces-nancy-54000,VA3937",
@@ -7426,6 +7426,23 @@
   "dpe": "D",
   "description": "Au centre-ville de Nancy, à deux pas du tramway et des commodités, venez découvrir ce bel appartement lumineux situé au deuxième étage au sein d’une résidence avec ascenseur bien entretenue et sécurisée. Une place de parking privative ainsi qu'une cave viennent compléter ce bien.\nDès l’entrée, vous découvrirez un dégagement desservant un vaste séjour lumineux, agrémenté d’une cuisine ouverte.\nCôté nuit, l’appartement dispose d’une chambre spacieuse avec dressing, ainsi que d’une salle d’eau indépendante avec WC.\nÀ visiter sans tarder !",
   "first_seen": "2026-10-19T14:56:53.028285+00:00",
+  "active": true
+ },
+ "https://www.renoiretvaloris.com/vente/maison-5-pieces-nancy-54000,VM1702": {
+  "url": "https://www.renoiretvaloris.com/vente/maison-5-pieces-nancy-54000,VM1702",
+  "title": "À vendre - Maison, 5 pièces située à Nancy (54000)",
+  "image": "https://img.netty.immo/productcw/renoirvaloris/2/VM1702/maison-5-pieces-nancy-54000-1792101570-VM1702_20_l.jpg",
+  "meta_desc": "Découvrez cette maison de 5 pièces située à Nancy (54000) disponible en vente.",
+  "price": null,
+  "surface": "125",
+  "terrain": "99",
+  "rooms": "5",
+  "bedrooms": "3",
+  "location": "Nancy 54000 - Faubourg des 3 Maisons",
+  "reference": "VM1702",
+  "dpe": "C",
+  "description": "A Nancy, au cœur du Faubourg des Trois Maisons, à quelques pas du Parc de la Pépinière et de la Vieille-ville, découvrez cette maison entièrement rénovée en 2019, offrant 125 m² habitables dans un esprit contemporain et lumineux.\nAu rez-de-chaussée, une entrée mène à une vaste pièce de vie de plus de 50 m², baignée de lumière grâce à de larges ouvertures. Elle réunit le salon, l’espace repas et une cuisine ouverte aménagée et équipée avec îlot central. Un WC indépendant complète ce niveau.\nElément fort de la décoration, son escalier noir, dessert l'espace nuit au premier étage, où vous trouverez les deux premières chambres, avec dressing et une salle d’eau avec second WC. Une terrasse de 11 m² prolonge cet étage et offre une vue dégagée.\nAu niveau inférieur, une troisième chambre de près de 25 m², pourra aussi servir de bureau, de salle de jeux ou d’espace de reception pour vos amis. En agréement, une cave de 13 m².\nUne maison prête à vivre, idéale pour une famille ou pour un couple en quête de volumes et de modernité à quelques minutes du centre de Nancy.",
+  "first_seen": "2026-10-20T12:56:36.621941+00:00",
   "active": true
  }
 }
