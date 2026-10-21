@@ -1102,7 +1102,7 @@
   "dpe": "E",
   "description": "Sur la commune de Nancy, dans un secteur très recherché entre la Rue de Mon désert et la Place de la Commanderie, venez découvrir cet appartement récemment rénové de deux pièces, au premier étage d'une copropriété de caractère datant de 1910.\nLe bien se compose d'une cuisine ouverte sur séjour et bénéficie d'une bonne exposition Sud-Ouest. Le charme de la pièce à vivre est perceptible par la cheminée ainsi que la hauteur sous plafond.\nCôté nuit, vous profiterez d'une agréable chambre ainsi que d'une salle de bains.\nNous vous invitons à visiter cet appartement sans plus tarder.\nClasse énergétique E : logement en consommation excessive.",
   "first_seen": "2026-07-23T13:21:10.695611+00:00",
-  "active": false
+  "active": true
  },
  "https://www.renoiretvaloris.com/vente/appartement-t2-2-pieces-nancy-54000,VA3937": {
   "url": "https://www.renoiretvaloris.com/vente/appartement-t2-2-pieces-nancy-54000,VA3937",
@@ -7256,7 +7256,7 @@
   "dpe": "E",
   "description": "À Nancy, dans un secteur très recherché pour sa proximité directe de la Porte Désilles / Cours Leopold, venez découvrir ce charmant appartement familial, situé au deuxième étage d'une copropriété de standing.\nDès l'entrée, vous apprécierez de beaux volumes avec une hauteur sous plafond spectaculaire de plus de 3 mètres. Vous profiterez d'un triple salon-séjour en enfilade représentant plus de 75 m² de charme et baignée de lumière. Dans la continuité, vous trouverez une cuisine indépendante et un espace buanderie bien pensé.\nCôté nuit, vous trouverez deux premières chambres à la taille généreuse bénéficiant d'une salle d'eau rénovée en 2023 ainsi qu'un WC indépendant.\nEn bonus, une suite parentale profitant d'une jolie salle de bains et un second WC indépendant pour compléter l'ensemble.\nDeux caves et une mansarde sont également comprises avec l'appartement. La possibilité de récupérer un bail de stationnement dans une résidence voisine vous est également proposée.\nL'appartement est en excellent état, décoré avec goût. Nous vous invitons à le visiter sans plus tarder.",
   "first_seen": "2026-10-01T14:44:57.621349+00:00",
-  "active": true
+  "active": false
  },
  "https://www.renoiretvaloris.com/vente/maison-8-pieces-nancy-54000,VM1756": {
   "url": "https://www.renoiretvaloris.com/vente/maison-8-pieces-nancy-54000,VM1756",
@@ -7443,6 +7443,23 @@
   "dpe": "C",
   "description": "A Nancy, au cœur du Faubourg des Trois Maisons, à quelques pas du Parc de la Pépinière et de la Vieille-ville, découvrez cette maison entièrement rénovée en 2019, offrant 125 m² habitables dans un esprit contemporain et lumineux.\nAu rez-de-chaussée, une entrée mène à une vaste pièce de vie de plus de 50 m², baignée de lumière grâce à de larges ouvertures. Elle réunit le salon, l’espace repas et une cuisine ouverte aménagée et équipée avec îlot central. Un WC indépendant complète ce niveau.\nElément fort de la décoration, son escalier noir, dessert l'espace nuit au premier étage, où vous trouverez les deux premières chambres, avec dressing et une salle d’eau avec second WC. Une terrasse de 11 m² prolonge cet étage et offre une vue dégagée.\nAu niveau inférieur, une troisième chambre de près de 25 m², pourra aussi servir de bureau, de salle de jeux ou d’espace de reception pour vos amis. En agréement, une cave de 13 m².\nUne maison prête à vivre, idéale pour une famille ou pour un couple en quête de volumes et de modernité à quelques minutes du centre de Nancy.",
   "first_seen": "2026-10-20T12:56:36.621941+00:00",
+  "active": true
+ },
+ "https://www.renoiretvaloris.com/vente/maison-ancienne-4-pieces-saint-max-54130,VM1537": {
+  "url": "https://www.renoiretvaloris.com/vente/maison-ancienne-4-pieces-saint-max-54130,VM1537",
+  "title": "À vendre - Maison ancienne, 4 pièces située à Saint-Max (54130)",
+  "image": "https://img.netty.immo/productcw/renoirvaloris/2/VM1537/maison-ancienne-4-pieces-saint-max-54130-1792444184-VM1537_12_l.jpg",
+  "meta_desc": "Découvrez cette maison (ancienne) de 4 pièces située à Saint-Max (54130) disponible en vente.",
+  "price": "165 000 €",
+  "surface": "78",
+  "terrain": null,
+  "rooms": "4",
+  "bedrooms": "2",
+  "location": "Lumineux",
+  "reference": "VM1537",
+  "dpe": "E",
+  "description": "Au cœur du Vieux Saint-Max, au sein d’une charmante rue recherchée et à proximité immédiate de toutes les commodités, venez découvrir cette jolie maison de caractère de quatre pièces disposant d’un jardin et d’un garage.\nAu premier étage, vous apprécierez une salle à manger et un séjour lumineux, sublimés par de beaux parquets et offrant un espace de vie traversant. Une cuisine semi-ouverte vient compléter ce niveau.\nAu deuxième étage, la partie nuit se compose de deux belles chambres, d’une grande salle de bains ainsi que d’un WC indépendant.\nAu rez-de-chaussée, vous bénéficierez d’un grand garage, d’une cave, d’un WC indépendant et d’un atelier avec un accès direct au jardin.\nUne maison pleine de charme, idéale pour profiter d’un cadre de vie agréable au cœur de Saint-Max, à découvrir sans tarder.",
+  "first_seen": "2026-10-21T13:11:39.530026+00:00",
   "active": true
  }
 }
