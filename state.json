@@ -1119,7 +1119,7 @@
   "dpe": "C",
   "description": "À Nancy, au sein du quartier Sainte-Marie, venez découvrir ce charmant deux pièces vendu loué, situé au troisième étage d'une petite copropriété à faible charge.\nVous apprécierez une belle pièce de vie ouverte sur une cuisine entièrement équipée. Côté nuit, une chambre de plus de 14 m² et une salle d'eau complètement rénovée et au goût du jour.\nL'appartement a été entièrement rénové en 2024 : Isolation, électricité, plomberie. Il est actuellement loué pour 530 € + 30 € de charges.\nNous vous invitons à le visiter sans plus tarder.",
   "first_seen": "2026-07-23T13:21:10.695611+00:00",
-  "active": true
+  "active": false
  },
  "https://www.renoiretvaloris.com/vente/appartement-t2-2-pieces-nancy-54000,VA4047": {
   "url": "https://www.renoiretvaloris.com/vente/appartement-t2-2-pieces-nancy-54000,VA4047",
@@ -2785,7 +2785,7 @@
   "dpe": "E",
   "description": "A Nancy, Rue Jean Jaures, idéalement desservie par les transports en commun, découvrez cet appartement de caractère au 3ème et dernier étage d'un bel immeuble Art Nouveau.\nReparti sur deux niveaux, l'appartement bénéficie d'une grande pièce de vie avec balconnet ainsi que d'une cuisine indépendante avec de nombreux rangements.\nCe niveau est complété par la premiere chambre ainsi que sa salle de bains avec WC.\nA l'étage, une chambre indépendante, sera idéale pour du télétravail ou pour un adolescent en quete d'indépendance grâce à sa propre salle d'eau et WC.\nAu rez-de-chaussée, un jardin commun.\nClasse énergétique E : logement en consommation excessive.",
   "first_seen": "2026-07-23T13:21:10.695611+00:00",
-  "active": true
+  "active": false
  },
  "https://www.renoiretvaloris.com/vente/appartement-t4-4-pieces-nancy-54000,VA4021": {
   "url": "https://www.renoiretvaloris.com/vente/appartement-t4-4-pieces-nancy-54000,VA4021",
@@ -7256,7 +7256,7 @@
   "dpe": "E",
   "description": "À Nancy, dans un secteur très recherché pour sa proximité directe de la Porte Désilles / Cours Leopold, venez découvrir ce charmant appartement familial, situé au deuxième étage d'une copropriété de standing.\nDès l'entrée, vous apprécierez de beaux volumes avec une hauteur sous plafond spectaculaire de plus de 3 mètres. Vous profiterez d'un triple salon-séjour en enfilade représentant plus de 75 m² de charme et baignée de lumière. Dans la continuité, vous trouverez une cuisine indépendante et un espace buanderie bien pensé.\nCôté nuit, vous trouverez deux premières chambres à la taille généreuse bénéficiant d'une salle d'eau rénovée en 2023 ainsi qu'un WC indépendant.\nEn bonus, une suite parentale profitant d'une jolie salle de bains et un second WC indépendant pour compléter l'ensemble.\nDeux caves et une mansarde sont également comprises avec l'appartement. La possibilité de récupérer un bail de stationnement dans une résidence voisine vous est également proposée.\nL'appartement est en excellent état, décoré avec goût. Nous vous invitons à le visiter sans plus tarder.",
   "first_seen": "2026-10-01T14:44:57.621349+00:00",
-  "active": false
+  "active": true
  },
  "https://www.renoiretvaloris.com/vente/maison-8-pieces-nancy-54000,VM1756": {
   "url": "https://www.renoiretvaloris.com/vente/maison-8-pieces-nancy-54000,VM1756",
