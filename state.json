@@ -643,7 +643,7 @@
   "dpe": "F",
   "description": "À Vandœuvre-lès-Nancy, dans la résidence l'Escurial, venez découvrir ce charmant studio entièrement rénové au sein d'une résidence hôtelière.\nCet ensemble immobilier met à disposition diverses infrastructures communes proposées aux locataires sur place. Vous y retrouverez notamment une salle de sport, une salle de télévision et une laverie. L'ensemble de ces prestations sont inclus au sein des charges de copropriété.\nVendu exclusivement pour de l'investissement locatif, celui-ci était loué 450 € HC / mois.\nEn bonus, une place de parking privative.\nNous vous invitons à le visiter sans plus tarder.\nClasse énergétique F : logement en consommation excessive.",
   "first_seen": "2026-07-23T13:21:10.695611+00:00",
-  "active": false
+  "active": true
  },
  "https://www.renoiretvaloris.com/vente/appartement-t1-2-2-pieces-nancy-54000,VA3793": {
   "url": "https://www.renoiretvaloris.com/vente/appartement-t1-2-2-pieces-nancy-54000,VA3793",
@@ -3397,7 +3397,7 @@
   "dpe": "D",
   "description": "En plein cœur du très recherché quartier du Faubourg des Trois-Maisons à Nancy, venez découvrir ce lumineux duplex de cinq pièces à entièrement réinventer offrant 153 m² au sol.\nAu deuxième étage d'une petite copropriété calme, vous serez séduits par ses grandes surfaces et le potentiel de ce bien.\nDès l'entrée, vous apprécierez les beaux volumes de cet appartement, notamment son double salon-séjour lumineux de 50 m². Il est complété par une cuisine indépendante, un coin nuit composé de trois chambres et d'une salle d'eau.\nEn sus de cet appartement, vous disposez d'une cave et d'un grenier aménageable.\nNous vous invitons à le visiter sans plus tarder.",
   "first_seen": "2026-07-23T13:21:10.695611+00:00",
-  "active": true
+  "active": false
  },
  "https://www.renoiretvaloris.com/vente/appartement-t5-et-plus-5-pieces-nancy-54000,VA3879": {
   "url": "https://www.renoiretvaloris.com/vente/appartement-t5-et-plus-5-pieces-nancy-54000,VA3879",
@@ -4995,7 +4995,7 @@
   "dpe": null,
   "description": "Sur les hauteurs de Laxou, dans un environnement calme et recherché, à proximité des commerces, écoles, sentiers pédestres et transports en commun, venez découvrir cette magnifique maison de 267 m² au sol, édifiée au début du XXe siècle et ayant fait l'objet d'une rénovation complète.\nLe rez-de-chaussée se compose d'une entrée, de deux vestibules, d'une buanderie, d'un garage pouvant accueillir deux véhicules et d'un second garage un véhicule.\nAu premier étage, vous retrouverez les marqueurs de l'ancien avec de beaux parquets en chêne, de magnifiques carreaux de ciment et une belle hauteur sous plafonds !\nVous serez séduit par un vaste salon-séjour lumineux offrant une vue dégagée, une cuisine indépendante complètement équipée permettant un accès direct à la grande terrasse et son jardin, un second séjour pourra également être utilisé comme salle de jeux ou chambre supplémentaire.\nUne salle d'eau et des WC indépendants complètent ce niveau.\nLe dernier étage est quant à lui composé de quatre grandes chambres dont une avec dressing, d'une salle de bains et de WC indépendants.\nSi vous avez besoin d'espace supplémentaire, les combles pourront être aménagés.\nÀ l'extérieur, vous profiterez d'une terrasse intimiste ainsi que d'un beau jardin arboré, le tout sur une parcelle d'environ 560 m².\nUne visite virtuelle est disponible sur demande.",
   "first_seen": "2026-07-23T13:21:10.695611+00:00",
-  "active": true
+  "active": false
  },
  "https://www.renoiretvaloris.com/vente/maison-7-pieces-malzeville-54220,VM1050": {
   "url": "https://www.renoiretvaloris.com/vente/maison-7-pieces-malzeville-54220,VM1050",
@@ -6797,7 +6797,7 @@
   "dpe": "C",
   "description": "Situé sur la commune de Neuves-Maisons, venez découvrir cet appartement traversant de cinq pièces, avec balcon, garage et stationnement privatif, situé au deuxième et dernier étage d'une copropriété bien entretenue.\nDès l’entrée avec placard, vous serez séduit par un vaste séjour lumineux ouvert sur une cuisine équipée et bénéficiant d'un accès à un balcon exposé sud-est.\nCôté nuit, l’appartement dispose de trois chambres spacieuses, d’une salle de bains ainsi que d’un WC indépendant.\nUn garage ainsi qu’une place de parking privative viennent compléter ce bien.\nNous vous invitons à le visiter sans plus tarder.",
   "first_seen": "2026-08-12T08:50:24.877982+00:00",
-  "active": true
+  "active": false
  },
  "https://www.renoiretvaloris.com/vente/appartement-t4-4-pieces-nancy-54000,VA4111": {
   "url": "https://www.renoiretvaloris.com/vente/appartement-t4-4-pieces-nancy-54000,VA4111",
@@ -7630,6 +7630,23 @@
   "dpe": "D",
   "description": "À Nancy, à proximité immédiate du Parc Olry, des transports et de toutes les commodités, venez découvrir ce magnifique appartement comprenant sept pièces et quatre chambres, situé au deuxième étage avec ascenseur d'une résidence édifiée au XIXe siècle et deux places de parking privatives.\nIl allie aujourd'hui parfaitement le charme de l'ancien, avec ses généreux volumes et sa belle hauteur sous plafond, à une rénovation résolument contemporaine.\nDès l'entrée, équipée d'un placard de rangement, vous découvrirez un immense espace de vie traversant de plus de 80 m², baigné de lumière.\nIl se compose d'une cuisine aménagée et équipée, ouverte sur un vaste salon et une salle à manger, offrant un cadre de vie particulièrement agréable et convivial.\nUne salle de jeux d'environ 35 m² vient compléter cet ensemble. Elle pourra être décloisonnée afin d'agrandir encore davantage l'espace de vie ou être réaménagée selon vos besoins.\nCôté nuit, vous profiterez d'une grande chambre parentale de près de 25 m², accompagnée de sa salle d'eau privative avec WC, ainsi que de deux autres chambres de respectivement 23 m² et 15 m².\nUne salle de bains, une buanderie et un WC indépendants complètent cet espace.\nEnfin, une pièce supplémentaire d'environ 30 m² offre de nombreuses possibilités d'aménagement. Elle pourra accueillir une chambre supplémentaire, un bureau ou, selon votre projet, être dissociée du reste de l'appartement afin de créer un espace professionnel ou un studio indépendant par exemple.\nCôté stationnement, le bien est vendu avec deux places de parking privatives. Vous aurez également la possibilité d'acquérir un garage en complément, ainsi que de profiter d'une grande cave.\nConcernant la copropriété, aucun travaux majeur n'est actuellement à prévoir. Les charges courantes générales s'élèvent à environ 200 € par mois, auxquelles s'ajoutent des charges d'un montant d'environ 364 € par mois correspondant au chauffage collectif.\nÀ noter qu'à l'occasion de la dernière assemblée générale, le remplacement du système de chauffage collectif par un raccordement au réseau de chauffage urbain a été voté. Cette installation, prévue en principe au printemps 2027, devrait permettre de réduire les dépenses de chauffage d'environ 30 %.\nUne visite virtuelle est disponible sur demande afin de vous permettre de mieux apprécier les volumes, le caractère et les nombreuses possibilités qu'offre cet appartement.\nUn bien rare sur le marché, à découvrir sans tarder !",
   "first_seen": "2026-11-01T14:28:52.918147+00:00",
+  "active": true
+ },
+ "https://www.renoiretvaloris.com/vente/maison-ancienne-7-pieces-laxou-54520,VM816": {
+  "url": "https://www.renoiretvaloris.com/vente/maison-ancienne-7-pieces-laxou-54520,VM816",
+  "title": "À vendre - Maison ancienne, 7 pièces située à Laxou (54520)",
+  "image": "https://img.netty.immo/productcw/renoirvaloris/2/VM816/maison-ancienne-7-pieces-laxou-54520-1710496823-VM816_19_l.jpg",
+  "meta_desc": "Découvrez cette maison (ancienne) de 7 pièces située à Laxou (54520) disponible en vente.",
+  "price": null,
+  "surface": "200",
+  "terrain": "560",
+  "rooms": "7",
+  "bedrooms": "5",
+  "location": "Laxou 54520",
+  "reference": "VM816",
+  "dpe": "C",
+  "description": "Sur les hauteurs de Laxou, dans un environnement calme et recherché, à proximité des commerces, écoles, sentiers pédestres et transports en commun, venez découvrir cette magnifique maison de 267 m² au sol, édifiée au début du XXe siècle et ayant fait l'objet d'une rénovation complète.\nLe rez-de-chaussée se compose d'une entrée, de deux vestibules, d'une buanderie, d'un garage pouvant accueillir deux véhicules et d'un second garage un véhicule.\nAu premier étage, vous retrouverez les marqueurs de l'ancien avec de beaux parquets en chêne, de magnifiques carreaux de ciment et une belle hauteur sous plafonds !\nVous serez séduit par un vaste salon-séjour lumineux offrant une vue dégagée, une cuisine indépendante complètement équipée permettant un accès direct à la grande terrasse et son jardin, un second séjour pourra également être utilisé comme salle de jeux ou chambre supplémentaire.\nUne salle d'eau et des WC indépendants complètent ce niveau.\nLe dernier étage est quant à lui composé de quatre grandes chambres dont une avec dressing, d'une salle de bains et de WC indépendants.\nSi vous avez besoin d'espace supplémentaire, les combles pourront être aménagés.\nÀ l'extérieur, vous profiterez d'une terrasse intimiste ainsi que d'un beau jardin arboré, le tout sur une parcelle d'environ 560 m².\nUne visite virtuelle est disponible sur demande.",
+  "first_seen": "2026-11-04T15:43:55.677005+00:00",
   "active": true
  }
 }
