@@ -456,7 +456,7 @@
   "dpe": "C",
   "description": "Sur la commune de NANCY, au coeur du secteur très recherché du marché couvert et de la Rue Saint-Dizier, venez découvrir ce\nloft\nau premier étage d'un immeuble construit en 1982.\nDe très bonne facture et construit en béton\narchitectonique\npar l'entreprise France-Lanord & Bichaton, cet immeuble bénéfice d'un esthétisme unique et d'une technique de construction novatrice pour son époque, en faisant un bien rare dans l'agglomération.\nL'appartement de 116 m² habitables bénéficie d'un grand espace de vie avec une hauteur sous plafond de\n2,80 mètres\n, une cuisine équipée, un double séjour et de nombreux placards.\nLa partie nuit se compose d'une belle suite parentale avec douche à l'italienne et placards.\nVous profiterez également d'un espace buanderie indépendant ainsi que de WC séparés.\nNous vous invitons à visiter ce bel appartement idéalement situé.",
   "first_seen": "2026-07-23T13:21:10.695611+00:00",
-  "active": true
+  "active": false
  },
  "https://www.renoiretvaloris.com/vente/appartement-loft-6-pieces-luneville-54300,VA3559": {
   "url": "https://www.renoiretvaloris.com/vente/appartement-loft-6-pieces-luneville-54300,VA3559",
@@ -6457,7 +6457,7 @@
   "dpe": null,
   "description": "Sur la commune de NANCY, au coeur d'un secteur dynamique et très recherché, venez découvrir cette belle place de parking sécurisée.\nÀ moins de cinq minutes de la gare de NANCY, ce stationnement situé au fond de la cour offre un bel espace et facilité de stationnement.\nNous vous invitons à la visiter sans plus tarder.",
   "first_seen": "2026-07-23T13:21:10.695611+00:00",
-  "active": true
+  "active": false
  },
  "https://www.renoiretvaloris.com/vente/stationnement-parking-1-place-nancy-54000,VS034": {
   "url": "https://www.renoiretvaloris.com/vente/stationnement-parking-1-place-nancy-54000,VS034",
@@ -6474,7 +6474,7 @@
   "dpe": null,
   "description": "Sur la commune de NANCY, au coeur d'un secteur dynamique et très recherché, venez découvrir cette place de parking sécurisée.\nÀ moins de cinq minutes de la gare de NANCY, ce stationnement situé au deuxième sous-sol profite d'un bel espace, facile pour se garer.\nNous vous invitons à la visiter sans plus tarder.",
   "first_seen": "2026-07-23T13:21:10.695611+00:00",
-  "active": true
+  "active": false
  },
  "https://www.renoiretvaloris.com/vente/terrain-constructible-2727-m2-gerardmer-88400,VT082": {
   "url": "https://www.renoiretvaloris.com/vente/terrain-constructible-2727-m2-gerardmer-88400,VT082",
@@ -6695,7 +6695,7 @@
   "dpe": "D",
   "description": "À Nancy, Rue du Téméraire, découvrez cet appartement en duplex de 224 m², situé au deuxième et dernier étage d’une petite copropriété. Il offre dix pièces, la climatisation ainsi qu’un garage fermé sur cour.\nLe premier niveau concentre l’espace de vie, composé d’un double salon et d’une vaste cuisine indépendante. S’y ajoutent un bureau, les deux premières chambres bénéficiant d’une belle hauteur sous plafond, dont une climatisée, ainsi qu’une salle de bains avec WC.\nVous accéderez ensuite au niveau supérieur par un bel escalier. Cet étage, datant des années 1950-1960, offre de grandes ouvertures et des agréments précieux pour ses cinq chambres supplémentaires, chacune bénéficiant d’une pièce d’eau et de placards.\nLe bien dispose égalementd’un grenier accessible uniquement depuis l’appartement et d’une cave.\nUne rare opportunité de création et de rénovation dans un secteur privilégié.\nLes charges se ventilent de la façon suivante :\nTotal général, consommations de gaz et d’eau comprises : 507 € par mois.\nTotal général, hors consommations de gaz et d’eau : 232 € par mois.",
   "first_seen": "2026-08-05T10:13:49.381254+00:00",
-  "active": false
+  "active": true
  },
  "https://www.renoiretvaloris.com/vente/appartement-t5-et-plus-6-pieces-nancy-54000,VA3033": {
   "url": "https://www.renoiretvaloris.com/vente/appartement-t5-et-plus-6-pieces-nancy-54000,VA3033",
@@ -7664,6 +7664,23 @@
   "dpe": "D",
   "description": "À Nancy, entre Nancy Thermal et le boulevard Charlemagne, découvrez cette maison de caractère à l'allure familiale développant 195 m² habitables et disposant d'un jardin ainsi que d'une solution de stationnement.\nRépartie sur trois niveaux habitables, la maison offre une distribution particulièrement adaptée à la vie familiale.\nLe rez-de-chaussée accueille une belle entrée, trois chambres aux superficies généreuses, une salle d'eau, un WC indépendant et une buanderie. Depuis ce niveau, un accès direct mène à un joli jardin arboré, agrémenté d'une dépendance à l'arrière de la propriété.\nLe premier étage est consacré aux pièces de réception. Une salle à manger s'ouvre sur une belle cuisine équipée, prolongée par une terrasse exposée plein sud. Un salon-séjour confortable ainsi qu'un second WC indépendant viennent compléter cet étage.\nAu deuxième étage, trois chambres supplémentaires prennent place dont une disposant d'un grand dressing. Une salle de bains avec double vasque et un dernier WC indépendant complètent la distribution.\nLes combles et le sous-sol apportent des espaces de rangement supplémentaires, pratiques pour le stockage du quotidien. Une place de parking sécurisée est également proposée à la location dans la copropriété voisine, au tarif de 40 € par mois.\nRénovée en 2020, la maison est aujourd'hui en très bon état général et a été entretenue avec soin.\nÀ découvrir sans tarder.",
   "first_seen": "2026-11-06T15:21:12.697073+00:00",
+  "active": true
+ },
+ "https://www.renoiretvaloris.com/vente/appartement-t4-4-pieces-nancy-54000,VA4223": {
+  "url": "https://www.renoiretvaloris.com/vente/appartement-t4-4-pieces-nancy-54000,VA4223",
+  "title": "À vendre - T4, 4 pièces situé à Nancy (54000)",
+  "image": "https://img.netty.immo/productcw/renoirvaloris/2/VA4223/appartement-t4-4-pieces-nancy-54000-1793897977-VA4223_10_l.jpg",
+  "meta_desc": "Découvrez cet appartement (t4) de 4 pièces situé à Nancy (54000) disponible en vente.",
+  "price": "1 880 €",
+  "surface": "122",
+  "terrain": null,
+  "rooms": "4",
+  "bedrooms": "2",
+  "location": "Nancy 54000 - Marché Couvert",
+  "reference": "VA4223",
+  "dpe": "D",
+  "description": "À Nancy, idéalement situé face au célèbre marché couvert, découvrez ce bel appartement de quatre pièces, niché au troisième étage d'un immeuble ancien et bénéficiant d'une situation particulièrement recherchée au cœur de la ville.\nDès l'entrée, vous serez séduit par les volumes et l'atmosphère de ce logement, qui profite d'une magnifique vue dégagée sur le marché couvert et son environnement. Un emplacement privilégié permettant de profiter pleinement de la vie du centre-ville, à proximité immédiate des commerces, des restaurants et de l'ensemble des commodités.\nLa pièce de vie constitue l'un des principaux atouts de cet appartement. Développant près de 50 m², elle accueille un bel espace de réception composé d'un salon et d'une salle à manger. Ses volumes généreux et sa vue dégagée en font un lieu particulièrement agréable, aussi bien pour recevoir que pour profiter du quotidien.\nLa cuisine, indépendante et équipée, bénéficie de son propre espace et offre une organisation fonctionnelle.\nCôté nuit, l'appartement dispose de deux grandes chambres, permettant d'accueillir confortablement une famille ou d'aménager une chambre supplémentaire selon les besoins. Une salle d'eau ainsi que des WC indépendants viennent compléter cette distribution.`\nMais ce qui rend ce bien véritablement singulier, c'est sans aucun doute son espace sauna entièrement équipé. Un équipement rare en plein cœur de Nancy, qui offre un véritable espace de détente et de bien-être au quotidien, apportant une dimension supplémentaire à cet appartement.\nSitué au troisième étage, l'appartement nécessite toutefois de prendre en considération l'absence d'ascenseur si tel est le cas. Les parties communes de l'immeuble mériteraient également un rafraîchissement, laissant entrevoir une marge d'amélioration pour valoriser davantage cette belle adresse.\nPar son emplacement exceptionnel face au marché couvert, ses volumes généreux, sa vue dégagée et son sauna privatif, cet appartement offre une combinaison particulièrement rare sur le marché nancéien.\nUn bien atypique et plein de caractère, idéal pour les amateurs de vie citadine à la recherche d'un appartement qui sort véritablement de l'ordinaire.",
+  "first_seen": "2026-11-07T14:19:07.265849+00:00",
   "active": true
  }
 }
