@@ -201,7 +201,7 @@
   "dpe": "C",
   "description": "Sur la commune de TOUL, en plein centre de la ville, à moins de 2 minutes de la Cathédrale et de la Mairie, venez découvrir ce bel appartement de quatre pièces de presque 160 m².\nComposé d'un grand séjour, d'une cuisine équipée et indépendante, ces deux pièces sont reliées par un bureau pouvant faire office de salon.\nDerrière le salon, vous découvrirez une pièce de près de 25 m², pouvant être une chambre ou une salle à manger.\nDe l'autre côté de l'appartement, vous bénéficierez de deux grandes chambres, de placards et d'une salle de bain avec baignoire et douche à l'italienne.\nSous l'appartement se trouve une grande cave isolée et privative.\nEnfin, le bien possède un jardin privatif directement accessible par la cuisine.\nNous vous invitons à visiter cet appartement sans plus tarder.",
   "first_seen": "2026-07-23T13:21:10.695611+00:00",
-  "active": true
+  "active": false
  },
  "https://www.renoiretvaloris.com/vente/appartement-5-pieces-nancy-54000,VA3060": {
   "url": "https://www.renoiretvaloris.com/vente/appartement-5-pieces-nancy-54000,VA3060",
@@ -1102,7 +1102,7 @@
   "dpe": "E",
   "description": "Sur la commune de Nancy, dans un secteur très recherché entre la Rue de Mon désert et la Place de la Commanderie, venez découvrir cet appartement récemment rénové de deux pièces, au premier étage d'une copropriété de caractère datant de 1910.\nLe bien se compose d'une cuisine ouverte sur séjour et bénéficie d'une bonne exposition Sud-Ouest. Le charme de la pièce à vivre est perceptible par la cheminée ainsi que la hauteur sous plafond.\nCôté nuit, vous profiterez d'une agréable chambre ainsi que d'une salle de bains.\nNous vous invitons à visiter cet appartement sans plus tarder.\nClasse énergétique E : logement en consommation excessive.",
   "first_seen": "2026-07-23T13:21:10.695611+00:00",
-  "active": true
+  "active": false
  },
  "https://www.renoiretvaloris.com/vente/appartement-t2-2-pieces-nancy-54000,VA3937": {
   "url": "https://www.renoiretvaloris.com/vente/appartement-t2-2-pieces-nancy-54000,VA3937",
@@ -7239,7 +7239,7 @@
   "dpe": "D",
   "description": "A Malzeville, découvrez cette charmante maison de 4 chambres avec garage où vous apprécierez les beaux volumes ainsi que la luminosité de la pièce de vie, idéalement exposée et offrant un espace convivial pour recevoir et partager des moments en famille.\nVous profiterez d'un jardin agréable, véritable prolongement de la maison, idéal pour les repas en extérieur et les moments de détente.\nUn grand garage complète ce bien et permet de stationner un véhicule tout en conservant un espace supplémentaire pour les motos, vélos et équipements.\nCôté emplacement, vous bénéficierez d'un environnement résidentiel agréable, à proximité immédiate des commodités et proche du centre ville de Nancy.\nNous vous invitons à découvrir cette maison sans plus tarder.",
   "first_seen": "2026-09-30T14:13:06.986501+00:00",
-  "active": false
+  "active": true
  },
  "https://www.renoiretvaloris.com/vente/appartement-t5-et-plus-6-pieces-nancy-54000,VA4091": {
   "url": "https://www.renoiretvaloris.com/vente/appartement-t5-et-plus-6-pieces-nancy-54000,VA4091",
@@ -7681,6 +7681,57 @@
   "dpe": "D",
   "description": "À Nancy, idéalement situé face au célèbre marché couvert, découvrez ce bel appartement de quatre pièces, niché au troisième étage d'un immeuble ancien et bénéficiant d'une situation particulièrement recherchée au cœur de la ville.\nDès l'entrée, vous serez séduit par les volumes et l'atmosphère de ce logement, qui profite d'une magnifique vue dégagée sur le marché couvert et son environnement. Un emplacement privilégié permettant de profiter pleinement de la vie du centre-ville, à proximité immédiate des commerces, des restaurants et de l'ensemble des commodités.\nLa pièce de vie constitue l'un des principaux atouts de cet appartement. Développant près de 50 m², elle accueille un bel espace de réception composé d'un salon et d'une salle à manger. Ses volumes généreux et sa vue dégagée en font un lieu particulièrement agréable, aussi bien pour recevoir que pour profiter du quotidien.\nLa cuisine, indépendante et équipée, bénéficie de son propre espace et offre une organisation fonctionnelle.\nCôté nuit, l'appartement dispose de deux grandes chambres, permettant d'accueillir confortablement une famille ou d'aménager une chambre supplémentaire selon les besoins. Une salle d'eau ainsi que des WC indépendants viennent compléter cette distribution.`\nMais ce qui rend ce bien véritablement singulier, c'est sans aucun doute son espace sauna entièrement équipé. Un équipement rare en plein cœur de Nancy, qui offre un véritable espace de détente et de bien-être au quotidien, apportant une dimension supplémentaire à cet appartement.\nSitué au troisième étage, l'appartement nécessite toutefois de prendre en considération l'absence d'ascenseur si tel est le cas. Les parties communes de l'immeuble mériteraient également un rafraîchissement, laissant entrevoir une marge d'amélioration pour valoriser davantage cette belle adresse.\nPar son emplacement exceptionnel face au marché couvert, ses volumes généreux, sa vue dégagée et son sauna privatif, cet appartement offre une combinaison particulièrement rare sur le marché nancéien.\nUn bien atypique et plein de caractère, idéal pour les amateurs de vie citadine à la recherche d'un appartement qui sort véritablement de l'ordinaire.",
   "first_seen": "2026-11-07T14:19:07.265849+00:00",
+  "active": true
+ },
+ "https://www.renoiretvaloris.com/vente/appartement-t3-4-3-pieces-nancy-54000,VA4206": {
+  "url": "https://www.renoiretvaloris.com/vente/appartement-t3-4-3-pieces-nancy-54000,VA4206",
+  "title": "À vendre - T3/4, 3 pièces situé à Nancy (54000)",
+  "image": "https://img.netty.immo/productcw/renoirvaloris/2/VA4206/appartement-t3-4-3-pieces-nancy-54000-1794156609-VA4206_13_l.jpg",
+  "meta_desc": "Découvrez cet appartement (t3/4) de 3 pièces situé à Nancy (54000) disponible en vente.",
+  "price": "14 400 €",
+  "surface": "66",
+  "terrain": null,
+  "rooms": "3",
+  "bedrooms": "3",
+  "location": "Potentiel locatif",
+  "reference": "VA4206",
+  "dpe": "C",
+  "description": "Investisseur : À Nancy, Rue de Thionville, dans un secteur très recherché pour sa proximité avec la Fac de Lettres, venez découvrir ce lot de trois appartements rénovés au sein d'une petite copropriété à faibles charges.\nAu dernier étage de cet immeuble, vous trouverez un studio et deux T1 bis pour une surface totale de 66 m². Le potentiel locatif est le suivant : Le plus petit lot est loué 300 € hors charges et les deux autres ont un potentiel de 450 € hors charges, soit un rendement annuel de 14 400 € hors charges.\nCes trois appartements sont actuellement des lots indissociables selon le règlement de copropriété, ce qui explique la vente de l'ensemble.\nLes appartements sont en très bon état et sont clés en main pour un investissement locatif.\nLes DPE sont de C et D.\nNous vous invitons à les visiter sans plus tarder.",
+  "first_seen": "2026-11-10T15:45:22.184201+00:00",
+  "active": true
+ },
+ "https://www.renoiretvaloris.com/vente/appartement-t5-et-plus-5-pieces-nancy-54000,VA4203": {
+  "url": "https://www.renoiretvaloris.com/vente/appartement-t5-et-plus-5-pieces-nancy-54000,VA4203",
+  "title": "À vendre - T5 et plus, 5 pièces situé à Nancy (54000)",
+  "image": "https://img.netty.immo/productcw/renoirvaloris/2/VA4203/appartement-t5-et-plus-5-pieces-nancy-54000-1794169117-VA4203_10_l.jpg",
+  "meta_desc": "Découvrez cet appartement (t5 et plus) de 5 pièces situé à Nancy (54000) disponible en vente.",
+  "price": "195 300 €",
+  "surface": "102",
+  "terrain": null,
+  "rooms": "5",
+  "bedrooms": "3",
+  "location": "Nancy 54000",
+  "reference": "VA4203",
+  "dpe": "D",
+  "description": "Au cœur de Nancy, laissez-vous séduire par cet élégant appartement de 5 pièces, où le charme de l’ancien rencontre de beaux volumes et des détails architecturaux de caractère.\nSitué au premier étage d’une charmante petite copropriété, cet appartement traversant et lumineux bénéficie d’un emplacement privilégié, à proximité immédiate de toutes les commodités.\nDès l’entrée, vous découvrirez un bel espace de vie composé de trois pièces distinctes, offrant de nombreuses possibilités d’aménagement et conservant tout le cachet des années 60. Baigné de lumière, le séjour s’ouvre sur une superbe loggia ornée de magnifiques vitraux, véritable élément de caractère qui confère à l’ensemble une atmosphère unique.\nCôté nuit, deux belles chambres vous attendent, avec la possibilité d’aménager une troisième chambre selon vos besoins. Une cuisine indépendante, une salle d’eau ainsi qu’un WC séparé viennent compléter l’agencement de ce bien.\nPour parfaire l’ensemble, l’appartement dispose également d’un grand grenier et d’une spacieuse cave, offrant de précieux espaces de stockage.\nUn appartement de caractère, lumineux et plein de potentiel, idéal pour les amateurs de charme et d’authenticité à la recherche d’un bien de qualité au cœur de Nancy.\nVenez le découvrir sans plus tarder.",
+  "first_seen": "2026-11-10T15:45:22.184201+00:00",
+  "active": true
+ },
+ "https://www.renoiretvaloris.com/vente/maison-mitoyenne-1-cote-6-pieces-foug-54570,VM1792": {
+  "url": "https://www.renoiretvaloris.com/vente/maison-mitoyenne-1-cote-6-pieces-foug-54570,VM1792",
+  "title": "À vendre - Maison mitoyenne 1 côté, 6 pièces située à Foug (54570)",
+  "image": "https://img.netty.immo/productcw/renoirvaloris/2/VM1792/maison-mitoyenne-1-cote-6-pieces-foug-54570-1794085434-VM1792_27_l.jpg",
+  "meta_desc": "Découvrez cette maison (mitoyenne 1 côté) de 6 pièces située à Foug (54570) disponible en vente.",
+  "price": "110 400 €",
+  "surface": "110",
+  "terrain": "390",
+  "rooms": "6",
+  "bedrooms": "4",
+  "location": "Foug 54570",
+  "reference": "VM1792",
+  "dpe": "C",
+  "description": "Au sein de la commune de Foug, venez découvrir cette jolie maison de 6 pièces, offrant un grand jardin arboré ainsi qu’un garage.\nAu premier étage, vous découvrirez un double séjour lumineux agrémenté d’une cheminée, ainsi qu’une cuisine indépendante. Un placard et un WC indépendant complètent ce niveau.\nAu deuxième étage, dédié à l’espace nuit, vous trouverez quatre grandes chambres ainsi qu’une salle de bain.\nAu rez-de-chaussée, deux pièces de stockage viennent compléter le bien, ainsi qu’un grand garage avec un accès direct à une véranda donnant sur le jardin.\nUne maison aux beaux volumes, à visiter sans tarder.",
+  "first_seen": "2026-11-10T15:45:22.184201+00:00",
   "active": true
  }
 }
