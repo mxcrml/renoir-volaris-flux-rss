@@ -7733,5 +7733,22 @@
   "description": "Au sein de la commune de Foug, venez découvrir cette jolie maison de 6 pièces, offrant un grand jardin arboré ainsi qu’un garage.\nAu premier étage, vous découvrirez un double séjour lumineux agrémenté d’une cheminée, ainsi qu’une cuisine indépendante. Un placard et un WC indépendant complètent ce niveau.\nAu deuxième étage, dédié à l’espace nuit, vous trouverez quatre grandes chambres ainsi qu’une salle de bain.\nAu rez-de-chaussée, deux pièces de stockage viennent compléter le bien, ainsi qu’un grand garage avec un accès direct à une véranda donnant sur le jardin.\nUne maison aux beaux volumes, à visiter sans tarder.",
   "first_seen": "2026-11-10T15:45:22.184201+00:00",
   "active": true
+ },
+ "https://www.renoiretvaloris.com/vente/immeuble-66-m2-nancy-54000,VI130": {
+  "url": "https://www.renoiretvaloris.com/vente/immeuble-66-m2-nancy-54000,VI130",
+  "title": "À vendre - Immeuble 66 m² situé à Nancy (54000)",
+  "image": "https://img.netty.immo/productcw/renoirvaloris/2/VI130/immeuble-66-m2-nancy-54000-1794231193-VI130_13_l.jpg",
+  "meta_desc": "Découvrez cet immeuble 66 m² situé à Nancy (54000) disponible en vente.",
+  "price": "14 400 €",
+  "surface": "66",
+  "terrain": null,
+  "rooms": null,
+  "bedrooms": null,
+  "location": "Potentiel locatif",
+  "reference": "VI130",
+  "dpe": "C",
+  "description": "Investisseur : À Nancy, Rue de Thionville, dans un secteur très recherché pour sa proximité avec la Fac de Lettres, venez découvrir ce lot de trois appartements rénovés au sein d'une petite copropriété à faibles charges.\nAu dernier étage de cet immeuble, vous trouverez un studio et deux T1 bis pour une surface totale de 66 m². Le potentiel locatif est le suivant : Le plus petit lot est loué 300 € hors charges et les deux autres ont un potentiel de 450 € hors charges, soit un rendement annuel de 14 400 € hors charges.\nCes trois appartements sont actuellement des lots indissociables selon le règlement de copropriété, ce qui explique la vente de l'ensemble.\nLes appartements sont en très bon état et sont clés en main pour un investissement locatif.\nLes DPE sont de C et D.\nNous vous invitons à les visiter sans plus tarder.",
+  "first_seen": "2026-11-11T15:35:09.677319+00:00",
+  "active": true
  }
 }
