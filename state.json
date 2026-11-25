@@ -7954,5 +7954,39 @@
   "description": "À Nancy, au cœur du quartier Général Leclerc / Artem, découvrez cet appartement entièrement rénové, situé au troisième étage d’une copropriété calme et bien entretenue avec ascenseur. Il dispose de deux chambres et de deux balcons.\nDès l’entrée, des rangements intégrés facilitent l’organisation du quotidien. Celle-ci dessert un vaste double salon-séjour de plus de 38 m², particulièrement lumineux grâce à ses grandes ouvertures donnant sur un balcon filant. Une cuisine indépendante et contemporaine avec un accès direct à un second balcon, vient compléter les pièces de vie.\nLa partie nuit se compose de deux chambres fonctionnelles. Selon les besoins, une troisième chambre peut être aménagée en cloisonnant la dernière partie du séjour. Une salle de bains moderne ainsi que des WC indépendants complètent la distribution.\nL’ensemble a fait l’objet d’une rénovation de qualité et offre un confort appréciable au quotidien, notamment grâce à une climatisation réversible.\nLa copropriété dispose également d’un rooftop sur lequel se trouve un séchoir rattaché au lot principal. En sus, une cave privative vient s’ajouter au bien.\nAucun travaux majeur n’est actuellement à prévoir au sein de l’immeuble. Les charges courantes générales s’élèvent à environ 200 € par mois, auxquelles s’ajoutent 207 € mensuels pour le chauffage collectif au gaz avec répartiteur.\nÀ découvrir sans tarder.",
   "first_seen": "2026-11-23T19:27:40.660187+00:00",
   "active": true
+ },
+ "https://www.renoiretvaloris.com/vente/appartement-5-pieces-nancy-54000,VA4232": {
+  "url": "https://www.renoiretvaloris.com/vente/appartement-5-pieces-nancy-54000,VA4232",
+  "title": "À vendre - Appartement, 5 pièces situé à Nancy (54000)",
+  "image": "https://img.netty.immo/productcw/renoirvaloris/2/VA4232/appartement-5-pieces-nancy-54000-1795468998-VA4232_22_l.jpg",
+  "meta_desc": "Découvrez cet appartement de 5 pièces situé à Nancy (54000) disponible en vente.",
+  "price": null,
+  "surface": "125",
+  "terrain": null,
+  "rooms": "5",
+  "bedrooms": "3",
+  "location": "Nancy 54000 - Faubourg des 3 Maisons",
+  "reference": "VA4232",
+  "dpe": "C",
+  "description": "A Nancy, au cœur du Faubourg des Trois Maisons, à quelques pas du Parc de la Pépinière et de la Vieille-ville, découvrez cet appartement avec entrée indépendante et terrasse aux allures de maison car hors copropriété, entièrement rénové en 2019, offrant 125 m² habitables dans un esprit contemporain et lumineux.\nAu rez-de-chaussée, une entrée mène à une vaste pièce de vie de plus de 50 m², baignée de lumière grâce à de larges ouvertures. Elle réunit le salon, l’espace repas et une cuisine ouverte aménagée et équipée avec îlot central. Un WC indépendant complète ce niveau.\nElément fort de la décoration, son escalier noir, dessert l'espace nuit au premier étage, où vous trouverez les deux premières chambres, avec dressing et une salle d’eau avec second WC. Une terrasse de 11 m² prolonge cet étage et offre une vue dégagée.\nAu niveau inférieur, une troisième chambre de près de 25 m², pourra aussi servir de bureau, de salle de jeux ou d’espace de reception pour vos amis. En agréement, une cave de 13 m².\nUn bien prêt à vivre, idéal pour une famille ou pour un couple en quête de volumes et de modernité à quelques minutes du centre de Nancy.",
+  "first_seen": "2026-11-25T18:09:38.743017+00:00",
+  "active": true
+ },
+ "https://www.renoiretvaloris.com/vente/appartement-t5-et-plus-5-pieces-nancy-54000,VA2821": {
+  "url": "https://www.renoiretvaloris.com/vente/appartement-t5-et-plus-5-pieces-nancy-54000,VA2821",
+  "title": "À vendre - T5 et plus, 5 pièces situé à Nancy (54000)",
+  "image": "https://img.netty.immo/productcw/renoirvaloris/2/VA2821/appartement-t5-et-plus-5-pieces-nancy-54000-1795425930-VA2821_15_l.jpg",
+  "meta_desc": "Découvrez cet appartement (t5 et plus) de 5 pièces situé à Nancy (54000) disponible en vente.",
+  "price": "3 527 €",
+  "surface": "115",
+  "terrain": null,
+  "rooms": "5",
+  "bedrooms": "4",
+  "location": "Ascenseur",
+  "reference": "VA2821",
+  "dpe": "C",
+  "description": "À Nancy, dans le quartier Boufflers, à proximité des commerces et des transports, découvrez ce vaste appartement de 115 m² comprenant 4 chambres, situé au 4e étage avec ascenseur d'une petite copropriété.\nExposé plein sud, il profite d'une vue dégagée et d'une belle luminosité. L'entrée, dotée d'un placard, dessert un séjour traversant ouvert sur une cuisine aménagée et équipée.\nLa partie nuit se compose de quatre chambres, dont une prolongée par un balcon de 6 m² et une suite avec sa salle d'eau privative, puis une salle de bains et un WC indépendant.\nUne buanderie, une cave de 14 m² et un garage fermé à porte motorisée complètent les prestations de ce bien à découvrir sans tarder.\nFenêtres en double vitrage, volets électriques, visiophone et fibre optique viennent compléter ce bien prêt à vivre. Le chauffage, l'eau chaude, le fond travaux et les entretiens divers de la copropriété sont compris dans les charges.",
+  "first_seen": "2026-11-25T18:09:38.743017+00:00",
+  "active": true
  }
 }
